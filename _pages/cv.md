@@ -15,7 +15,7 @@ Education
   Fields: International and Financial Economics  
   
 * MSc in Economics, School of Economics, Symbiosis International University, 2014-16 <br>
-  Specializations: International Trade and Finance, Applied Econometrics
+  Specializations: International Trade and Finance, Applied Econometrics <br>
   Thesis: Trade-Growth nexus: a study of G20 countries
   
 * BSc in Physics (Major), Mathematics, and Statistics, Fergusson College, University of Pune, 2011-14 <br>
