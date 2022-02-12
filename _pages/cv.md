@@ -36,9 +36,9 @@ Experience
   SCMHRD, Pune, India <br>
 -- Multi-channel Marketing (MCM), Key Drivers Analytics (KDA), Business Performance
  
-  * Research Intern, Dec 2012 - Jan 2014 <br>
+* Research Intern, Dec 2012 - Jan 2014 <br>
    IUCAA, Pune, India <br>
- -- Data Analytics, Assessing retailer's fruits and vegatables procurememt pattern in Pune city and developing a structure for collection of fruits and vegetables from farmers and supplying them to the consumers.
+-- Data Analytics, Assessing retailer's fruits and vegatables procurememt pattern in Pune city and developing a structure for collection of fruits and vegetables from farmers and supplying them to the consumers.
  
  * Project Student, Dec 2012 - Jan 2014 <br>
    IUCAA, Pune, India <br>
