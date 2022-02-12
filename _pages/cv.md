@@ -28,9 +28,9 @@ Work experience
 * Graduate Research Assistant to Prof. Dominick Salvatore, August 2018 - present <br>
   Graduate School of Arts and Sciences, Fordham University
   
-* Researcher, June 2020 - August 2020 <br>
+* Researcher, Crypto asset and Blockchain Research June 2020 - August 2020 <br>
   Centre for Alternative Finance, Cambridge Judge Business School <br>
--- Cryptoasset and Blockchain Research: Global Alternative Finance Benchmark Study, 3rd edition of Global Crypto Asset Benchmarking Study
+-- Global Alternative Finance Benchmark Study, 3rd edition of Global Crypto Asset Benchmarking Study
 
 * Associate, June 2016 - July 2018 <br>
   ZS, Pune, India <br>
