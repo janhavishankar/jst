@@ -12,10 +12,14 @@ redirect_from:
 Education
 ======
 * PhD in Economics, Graduate School of Arts and Sciences, Fordham University, 2018-present <br>
-  Fields: International and Financial Economics
-
-* MSc in Economics, School of Economics, Symbiosis International University, 2014 - 16
-* BSc in Physics (Major), Mathematics, and Statistics, Fergusson College, University of Pune, 2011 - 14
+  Fields: International and Financial Economics  
+  
+* MSc in Economics, School of Economics, Symbiosis International University, 2014-16 <br>
+  Specializations: International Trade and Finance, Applied Econometrics
+  Thesis: Trade-Growth nexus: a study of G20 countries
+  
+* BSc in Physics (Major), Mathematics, and Statistics, Fergusson College, University of Pune, 2011-14 <br>
+  Thesis: Magnetohydrodynamics and Dynamo theory
 
 Work experience
 ======
