@@ -14,7 +14,7 @@ My research interests are in Financial Economics, International Finance, Behavio
 
 I am also interested in Economic and Business consulting. Before joining the PhD program, I worked in the business consulting industry for 2+ years. I worked with the Business Performance and Advanced Analytics team at ZS, providing business-relevant analytics and insights to a major US Pharma client.
 
-I hold an MSc in Economics from the School of Economics, Symbiosis International University, and a BSc in Physics (Major), Mathematics, Statistics from Fergusson College, University of Pune.
+I hold an MSc in Economics from the School of Economics, Symbiosis International University, and a BSc in Physics (Major), Mathematics and Statistics from Fergusson College, University of Pune.
 
 Email- jtripathi@fordham.edu
 
