@@ -10,28 +10,35 @@ redirect_from:
 
 Education
 ======
-* PhD in Economics (Econometrics and Qunatitative Economics), 2018-present <br>
+* PhD in Economics (Econometrics and Qunatitative Economics), 2018 - present <br>
   Graduate School of Arts and Sciences, Fordham University, NY, USA <br>
   Fields: International and Financial Economics  
   
-* MSc in Economics, 2014-16 <br>
+* MSc in Economics, 2014 - 2016 <br>
   School of Economics, Symbiosis International University, Pune, India <br>
   Specializations: International Trade and Finance, Applied Econometrics <br>
   Thesis: Trade-Growth nexus: a study of G20 countries
   
-* BSc in Physics (Major), Mathematics and Statistics, 2011-14 <br>
+* BSc in Physics (Major), Mathematics and Statistics, 2011 - 2014 <br>
   Fergusson College, University of Pune, Pune, India <br>
   Thesis: Magnetohydrodynamics and Dynamo theory
 
 Work experience
 ======
+* Graduate Research Assistant to Prof. Dominick Salvatore, August 2018 - present <br>
+  Graduate School of Arts and Sciences, Fordham University
+  
 * Researcher, June 2020 - August 2020 <br>
   Centre for Alternative Finance, Cambridge Judge Business School <br>
-  - As a part of the Cryptoasset and Blockchain research team, I worked on the Global Alternative Finance Benchmark Study and the 3rd edition of Global Crypto Asset Benchmarking Study.
+  - Cryptoasset and Blockchain Research: Global Alternative Finance Benchmark Study, 3rd edition of Global Crypto Asset Benchmarking Study
 
 * Associate, June 2016 - July 2018 <br>
   ZS, Pune, India <br>
-  - Area of work: Multi-channel Marketing (MCM), Key Drivers Analytics (KDA), Business Performance
+  - Multi-channel marketing (MCM), Key drivers analytics (KDA), Business performance
+ 
+ * Project Student, December 2012 - January 2014 <br>
+   IUCAA, Pune, India <br>
+   - Galactic dynamos
 
 <!--
 * Summer 2015: Research Assistant
