@@ -6,12 +6,12 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-<!--
 {% include base_path %}
 
 Education
 ======
-* PhD in Economics, Graduate School of Arts and Sciences, Fordham University, 2018-present <br>
+* PhD in Economics (Econometrics and Qunatitative Economics), 2018-present <br>
+  Graduate School of Arts and Sciences, Fordham University <br>
   Fields: International and Financial Economics  
   
 * MSc in Economics, School of Economics, Symbiosis International University, 2014-16 <br>
