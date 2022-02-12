@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Janhavi Shankar Tripathi"
   avatar           : "jst.png"
-  bio              : "PhD Candidate in Economics at Fordham University"
+  bio              : "PhD Candidate in Economics"
   location         : "New York, NY"
-  employer         :
+  employer         : "Fordham University"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            :
+  email            : "jtripathi@fordham.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
