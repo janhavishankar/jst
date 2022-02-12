@@ -29,7 +29,7 @@ comments:
   facebook:
     appid                :
     num_posts            : # 5 (default)
-    colorscheme          : # "light" (default), "dark" 
+    colorscheme          :  "light" (default), "dark" 
 staticman:
   allowedFields          : ['name', 'email', 'url', 'message']
   branch                 : "gh-pages" # "master", "gh-pages"
@@ -261,16 +261,16 @@ timezone: America/New_York # http://en.wikipedia.org/wiki/List_of_tz_database_ti
 # Plugins
 plugins:
   - jekyll-paginate
-  #- jekyll-sitemap
+  - jekyll-sitemap
   - jekyll-gist
-  #- jekyll-feed
+  - jekyll-feed
   - jekyll-redirect-from
   - jekyll-remote-theme
 whitelist:
   - jekyll-paginate
-  #- jekyll-sitemap
+  - jekyll-sitemap
   - jekyll-gist
-  #- jekyll-feed
+  - jekyll-feed
   - jemoji
 
 
