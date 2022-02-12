@@ -30,15 +30,15 @@ Work experience
   
 * Researcher, June 2020 - August 2020 <br>
   Centre for Alternative Finance, Cambridge Judge Business School <br>
-- Cryptoasset and Blockchain Research: Global Alternative Finance Benchmark Study, 3rd edition of Global Crypto Asset Benchmarking Study
+> Cryptoasset and Blockchain Research: Global Alternative Finance Benchmark Study, 3rd edition of Global Crypto Asset Benchmarking Study
 
 * Associate, June 2016 - July 2018 <br>
   ZS, Pune, India <br>
-- Multi-channel marketing (MCM), Key drivers analytics (KDA), Business performance
+> Multi-channel marketing (MCM), Key drivers analytics (KDA), Business performance
  
  * Project Student, December 2012 - January 2014 <br>
    IUCAA, Pune, India <br>
-   - Galactic dynamos
+ > Galactic dynamos
 
 <!--
 * Summer 2015: Research Assistant
