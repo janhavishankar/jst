@@ -23,7 +23,7 @@ Education
   Fergusson College, University of Pune, Pune, India <br>
   Thesis: Magnetohydrodynamics and Dynamo theory
 
-Work Experience
+Experience
 ======
 * Graduate Research Assistant to Prof. Dominick Salvatore, Aug 2018 - present <br>
   Graduate School of Arts and Sciences, Fordham University, NY, USA
