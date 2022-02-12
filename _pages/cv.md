@@ -27,13 +27,11 @@ Work experience
 ======
 * Researcher, June 2020 - August 2020 <br>
   Centre for Alternative Finance, Cambridge Judge Business School <br>
-  - As a part of the Cryptoasset and Blockchain research team, I worked on the Global Alternative Finance Benchmark Study and the 3rd edition of Global Crypto Asset Benchmarking Study.
+- As a part of the Cryptoasset and Blockchain research team, I worked on the Global Alternative Finance Benchmark Study and the 3rd edition of Global Crypto Asset Benchmarking Study.
 
 * Associate, June 2016 - July 2018 <br>
   ZS, Pune, India <br>
-  - Multi-channel Marketing (MCM) <br>
-  - Key Drivers Analytics (KDA) <br>
-  - Business Performance
+- Area of work: Multi-channel Marketing (MCM), Key Drivers Analytics (KDA), Business Performance
 
 <!--
 * Summer 2015: Research Assistant
