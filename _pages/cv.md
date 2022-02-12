@@ -19,7 +19,7 @@ Education
   Specializations: International Trade and Finance, Applied Econometrics <br>
   Thesis: Trade-Growth nexus: a study of G20 countries
   
-* BSc in Physics (Major), Mathematics, Statistics, 2011 - 2014 <br>
+* BSc in Physics (Major), Mathematics and Statistics, 2011 - 2014 <br>
   Fergusson College, University of Pune, Pune, India <br>
   Thesis: Magnetohydrodynamics and Dynamo theory
 
