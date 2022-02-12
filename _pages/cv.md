@@ -38,7 +38,7 @@ Experience
  
 * Research Intern, Apr 2015 - Jun 2015 <br>
   SCMHRD, Pune, India <br>
--- Data Analytics, Assessing retailer's fruits and vegatables procurememt pattern in Pune city and developing a structure for collection of fruits and vegetables from farmers and supplying them to the consumers.
+-- Data Analytics, Assessing retailer's fruits and vegatables procurement pattern in Pune city and developing a framework for collection of fruits and vegetables from farmers and supplying them to the consumers
  
 * Project Student, Dec 2012 - Jan 2014 <br>
    IUCAA, Pune, India <br>
