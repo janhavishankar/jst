@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Janhavi Shankar Tripathi"
 title_separator          : "-"
 name                     : &name "Janhavi Shankar Tripathi"
-description              : &description "PhD Candidate & Graduate Research Assistant, Department of Economics, Fordham University"
+description              : &description "PhD Candidate in Economics at Fordham University"
 url                      : https://janhavishankar.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "janhavishankar/janhavishankar.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Janhavi Shankar Tripathi"
   avatar           : "jst.png"
-  bio              : "PhD Candidate & Graduate Research Assistant, <br> Department of Economics, <br> Fordham University"
+  bio              : "PhD Candidate in Economics at Fordham University"
   location         : "New York, NY"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
