@@ -6,7 +6,7 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-
+<!--
 {% include base_path %}
 
 Education
@@ -31,7 +31,7 @@ Work experience
 * December 2011 - January 2011 : RAWSC Scholar
   * IUCAA, Pune
   * Radio Astronomy Winter School
-
+-->
 
 <!--
 Skills
