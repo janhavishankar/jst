@@ -11,24 +11,25 @@ redirect_from:
 Education
 ======
 * PhD in Economics (Econometrics and Qunatitative Economics), 2018-present <br>
-  Graduate School of Arts and Sciences, Fordham University <br>
+  Graduate School of Arts and Sciences, Fordham University, NY, USA <br>
   Fields: International and Financial Economics  
   
 * MSc in Economics, 2014-16 <br>
-  School of Economics, Symbiosis International University <br>
+  School of Economics, Symbiosis International University, Pune, India <br>
   Specializations: International Trade and Finance, Applied Econometrics <br>
   Thesis: Trade-Growth nexus: a study of G20 countries
   
 * BSc in Physics (Major), Mathematics and Statistics, 2011-14 <br>
-  Fergusson College, University of Pune <br>
+  Fergusson College, University of Pune, Pune, India <br>
   Thesis: Magnetohydrodynamics and Dynamo theory
 
 Work experience
 ======
 * Associate, June 2016 - July 2018
   ZS, Pune, India
+  Area of work: Multi-channel Marketing (MCM), Key Drivers Analytics (KDA) and Business Performance
 
-
+<!--
 * Summer 2015: Research Assistant
   * Github University
   * Duties included: Tagging issues
