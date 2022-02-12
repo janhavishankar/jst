@@ -11,7 +11,9 @@ redirect_from:
 
 Education
 ======
-* PhD in Economics, Graduate School of Arts and Sciences, Fordham University, 2018 - present
+* PhD in Economics, Graduate School of Arts and Sciences, Fordham University, 2018-present <br>
+  Fields: International and Financial Economics
+
 * MSc in Economics, School of Economics, Symbiosis International University, 2014 - 16
 * BSc in Physics (Major), Mathematics, and Statistics, Fergusson College, University of Pune, 2011 - 14
 
