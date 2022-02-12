@@ -25,6 +25,10 @@ Education
 
 Work experience
 ======
+* Associate, June 2016 - July 2018
+  ZS, Pune, India
+
+
 * Summer 2015: Research Assistant
   * Github University
   * Duties included: Tagging issues
