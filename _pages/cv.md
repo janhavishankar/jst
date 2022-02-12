@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* PhD in Economics, Graduate School of Arts and Sciences, Fordham University, 2018 - present
+* MSc in Economics, School of Economics, Symbiosis International University, 2014 - 16
+* BSc in Physics (Major), Mathematics, and Statistics, Fergusson College, University of Pune, 2011 - 14
 
 Work experience
 ======
