@@ -28,10 +28,9 @@ Work experience
   * Duties included: Tagging issues
   * Supervisor: Professor Git
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* December 2011 - January 2011 : RAWSC Scholar
+  * IUCAA, Pune
+  * Radio Astronomy Winter School
 
 
 <!--
