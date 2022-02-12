@@ -32,7 +32,7 @@ Experience
   Centre for Alternative Finance, Cambridge Judge Business School <br>
 -- Global Alternative Finance Benchmark Study, 3rd edition of Global Crypto Asset Benchmarking Study
 
-* Associate, Dec 2012 - Jan 2014 <br>
+* Associate, Jun 2016 - Jul 2018 <br>
   ZS, Pune, India <br>
 -- Multi-channel Marketing (MCM), Key Drivers Analytics (KDA), Business Performance
  
