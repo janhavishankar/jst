@@ -25,7 +25,7 @@ Education
 
 Experience
 ======
-* Graduate Assistant, Aug 2018 - present <br>
+* Graduate Research Assistant, Aug 2018 - present <br>
   Graduate School of Arts and Sciences, Fordham University, NY, USA <br>
 -- Research Assistant to Prof. Dominick Salvatore  
   
