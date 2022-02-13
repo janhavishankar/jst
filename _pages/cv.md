@@ -49,7 +49,7 @@ Awards and Honors
 ======
 * Mahony Prowse Scholarship, Fordham University, 2020 <br>
 * Dominick Salvatore Summer Research Fellowship, Fordham University, 2020 <br>
-* Omicron Delta Epsilon (ODE) International Honor Society for Economics Memership, Fordham University, 2019 <br>
+* Omicron Delta Epsilon (ODE) International Honor Society for Economics Membership, Fordham University, 2019 <br>
 * GSAS Fellowship to pursue PhD in Economics, Fordham University, 2018 - present <br>
 * Outstanding achievement award for work on Multi-channel Marketing Analytics (Non-personal Promotion Digital Tactics), ZS-BMS, 2017 <br>
 * OPSCAR award for overall excellence in Business Operations and contributions to the Global Analytics Team, ZS, 2017 <br>
