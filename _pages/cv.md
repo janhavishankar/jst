@@ -17,11 +17,11 @@ Education
 * MSc in Economics, 2014 - 2016 <br>
   School of Economics, Symbiosis International University, Pune, India <br>
   Specializations: International Trade and Finance, Applied Econometrics <br>
-  Thesis: Trade-Growth nexus: a study of G20 countries
+  Thesis: Trade-Growth Nexus: A Study of G20 Countries
   
 * BSc in Physics (Major), Mathematics and Statistics, 2011 - 2014 <br>
   Fergusson College, University of Pune, Pune, India <br>
-  Thesis: Magnetohydrodynamics and Dynamo theory
+  Thesis: Magneto-Hydrodynamics and Dynamo Theory
 
 Experience
 ======
@@ -38,7 +38,7 @@ Experience
  
 * Research Intern, Apr 2015 - Jun 2015 <br>
   SCMHRD, Pune, India <br>
--- Data Analytics, Assessing retailer's fruits and vegatables procurement pattern in Pune city and developing a framework for collection of fruits and vegetables from farmers and supplying them to the consumers
+-- Data Analytics, Identifying retailers and assessing their fruits and vegatables procurement pattern in Pune city and developing a framework for collection of fruits and vegetables from farmers and supplying them to the consumers
  
 * Project Student, Dec 2012 - Jan 2014 <br>
    IUCAA, Pune, India <br>
