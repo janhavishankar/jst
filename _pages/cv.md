@@ -37,9 +37,9 @@ Experience
   ZS, Pune, India <br>
 -- Multi-channel Marketing (MCM), Key Drivers Analytics (KDA), Business Performance
  
-* Research Intern, Apr 2015 - Jun 2015 <br>
+* Research Intern, Data Analytics, Apr 2015 - Jun 2015 <br>
   SCMHRD, Pune, India <br>
--- Data Analytics, Assessing retailers' fruits and vegatables procurement pattern in Pune city and developing an efficient framework for collection of fruits and vegetables from farmers and supplying them to the consumers
+-- Assessing retailers' fruits and vegatables procurement pattern in Pune city and developing an efficient framework for collection of fruits and vegetables from farmers and supplying them to the consumers
  
 * Project Student, Dec 2012 - Jan 2014 <br>
    IUCAA, Pune, India <br>
