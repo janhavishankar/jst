@@ -6,7 +6,7 @@ author_profile: true
 ---
 Working Papers
 ======
-- **Tripathi, J. S.**, & Rengifo, E. W. (2021). **The Impact of Fractional Trading on Risk Aversion for Non-professional Investors.** Submitted, Under Review. <br>
+- **Tripathi, J. S.**, & Rengifo, E. W. (2021). **The Impact of Fractional Trading on Risk Aversion for Non-professional Investors.** Submitted, Under Review. <br> <br>
 **Presented at:** Fordham Fall 2021 Finance workshop, Fordham Spring 2021 Macro/International Finance workshop <br> <br>
 **Abstract:** We study the impact of fractional trading on non-professional investors' decision-making under uncertainty. Using the expected utility framework, we show that with the recent easiness to trade in stock markets and with the option to buy or sell a fraction of a share of a stock or ETFs (exchange-traded funds), the risk appetite of non-professional investors might have gone up, increasing market participation and demand for stocks. Furthermore, we show that this change in the non-professional investor's risk aversion behavior varies by household income levels. Our results suggest that easy access to trade stocks and fractional trading allows households with lower discretionary income a new tool to diversify their portfolio and participate in the stock markets by investing in different stocks and ETFs while at the same time having a significant impact on the stocks' price levels and price dynamics observed in the markets. 
 
