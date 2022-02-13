@@ -56,6 +56,7 @@ Awards and Honors
 * Selected among 55 students across India for National Initiative on Undergraduate Sciences (NIUS) - Physics camp 9.1, HBCSE-TIFR, 2012 <br>
 * First prize as a group for work and poster presentation on AstroSat, Radio Astronomy Winter School (RAWSc), IUCAA, 2011 <br>
 
+
 <!--
 * Summer 2015: Research Assistant
   * Github University
