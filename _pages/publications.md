@@ -4,6 +4,9 @@ title: "Research"
 permalink: /publications/
 author_profile: true
 ---
+
+<br>
+
 Working Papers
 ======
 - **Tripathi, J. S.**, & Rengifo, E. W. (2021). **The Impact of Fractional Trading on Risk Aversion for Non-professional Investors.** Submitted, Under Review. <br>
