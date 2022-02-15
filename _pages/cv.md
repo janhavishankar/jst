@@ -1,12 +1,18 @@
 ---
 layout: archive
-title: ""
+title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
 ---
 {% include base_path %}
+
+Janhavi Shankar Tripathi
+======
+PhD Candidate in Economics and 
+Graduate Research Assistant
+Fordham University, NY, USA
 
 Contact
 ======
