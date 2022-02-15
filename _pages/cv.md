@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Curriculum Vitae - Janhavi Shankar Tripathi"
+title: "CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -8,7 +8,7 @@ redirect_from:
 ---
 {% include base_path %}
 
-
+Janhavi Shankar Tripathi
 
 Contact
 ======
