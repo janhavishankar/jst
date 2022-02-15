@@ -8,7 +8,7 @@ redirect_from:
 ---
 {% include base_path %}
 
-\
+
 
 Contact
 ======
@@ -58,7 +58,7 @@ Experience
    IUCAA, Pune, India <br>
 -- Galactic Dynamos
 
-Awards and Honors
+Awards, Honors, Fellowships
 ======
 * Mahony Prowse Scholarship, Fordham University, 2020 <br>
 * Dominick Salvatore Summer Research Fellowship, Fordham University, 2020 <br>
