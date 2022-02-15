@@ -9,6 +9,7 @@ redirect_from:
 {% include base_path %}
 
 <br>
+
 Janhavi Shankar Tripathi
 ======
 PhD Candidate in Economics and <br>
