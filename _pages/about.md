@@ -1,12 +1,14 @@
 ---
 permalink: /
-title: "_Hello!_"
+title: "Hello!"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+
+<br>
 
 I am a PhD Candidate in Economics at Fordham University, specializing in International and Financial Economics. At Fordham, I am advised by Prof. Erick W. Rengifo and Prof. Dominick Salvatore.
 
