@@ -8,16 +8,16 @@ redirect_from:
 ---
 {% include base_path %}
 
-Janhavi Shankar Tripathi
-======
+
+**Janhavi Shankar Tripathi**
 
 Contact
 ======
 Email: jtripathi@fordham.edu <br> <br>
 Mailing Address: <br>
 Janhavi Shankar Tripathi <br>
-Department of Economics <br>
 Fordham University <br>
+Department of Economics <br>
 Dealy Hall <br>
 441 East Fordham Road <br>
 Bronx, NY 10458 <br>
