@@ -8,13 +8,9 @@ redirect_from:
 ---
 {% include base_path %}
 
-<br>
-
 Janhavi Shankar Tripathi
 ======
-PhD Candidate in Economics and <br>
-Graduate Research Assistant <br>
-Fordham University, NY, USA
+PhD Candidate in Economics and Graduate Research Assistant at Fordham University, NY, USA
 
 Contact
 ======
