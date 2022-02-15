@@ -69,7 +69,7 @@ Awards, Honors, Fellowships
 * Outstanding achievement award for work on Multi-channel Marketing Analytics (Non-personal Promotion Digital Tactics), ZS-BMS, 2017 <br>
 * OPSCAR award for overall excellence in Business Operations and contributions to the Global Analytics Team, ZS, 2017 <br>
 * Selected among 55 students across India for National Initiative on Undergraduate Sciences (NIUS) - Physics camp 9.1, HBCSE-TIFR, 2012 <br>
-* First prize as a group for work and poster presentation on AstroSat, Radio Astronomy Winter School (RAWSc), IUCAA, 2011 <br>
+* Selected among 30 students across India for the Radio Astronomy Winter School (RAWSc) and won the first prize as a group for the work and poster presentation on AstroSat, IUCAA, 2011 <br>
 
 
 <!--
