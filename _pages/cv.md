@@ -8,8 +8,7 @@ redirect_from:
 ---
 {% include base_path %}
 
-
-<br>
+\\
 Contact
 ======
 Email: jtripathi@fordham.edu <br> <br>
