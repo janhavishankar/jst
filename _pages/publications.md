@@ -26,8 +26,8 @@ Works in Progress
 
 Thesis
 ======
-- MSc Thesis: Trade-Growth Nexus: A Study of G20 Countries
-- BSc Thesis: Magneto-Hydrodynamics and Dynamo Theory
+- MSc Thesis: Trade-Growth Nexus: A Study of G20 Countries [[PDF](https://www.researchgate.net/publication/335527481_TRADE-GROWTH_NEXUS_A_STUDY_OF_G-20_COUNTRIES?channel=doi&linkId=5d6b4c6a299bf1808d5cc85e&showFulltext=true)].
+- BSc Thesis: Magneto-Hydrodynamics and Dynamo Theory [[PDF](https://www.researchgate.net/publication/335527291_Magneto-Hydrodynamics_and_Dynamo_Theory?channel=doi&linkId=5d6b4b9d92851c8538839031&showFulltext=true)].
 
 Other Selected Projects
 ======
