@@ -16,7 +16,16 @@ I am also interested in Economic and Business consulting. Before joining the PhD
 
 I hold an MSc in Economics from the School of Economics, Symbiosis International University, and a BSc in Physics (Major), Mathematics and Statistics from Fergusson College, University of Pune.
 
-Email: jtripathi@fordham.edu
+Contact
+======
+Email: jtripathi@fordham.edu <br> <br>
+Mailing Address: <br>
+Janhavi Shankar Tripathi <br>
+Fordham University <br>
+Department of Economics <br>
+Dealy Hall <br>
+441 East Fordham Road <br>
+Bronx, NY 10458 <br>
 
 
 
