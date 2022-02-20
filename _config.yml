@@ -29,7 +29,7 @@ comments:
   facebook:
     appid                :
     num_posts            : # 5 (default)
-    colorscheme          : #"light" (default), "dark" 
+    colorscheme          : "light" (default), "dark" 
 staticman:
   allowedFields          : ['name', 'email', 'url', 'message']
   branch                 : "gh-pages" # "master", "gh-pages"
@@ -88,7 +88,7 @@ author:
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
   email            : "jtripathi@fordham.edu"
-  researchgate     :  https://www.researchgate.net/profile/Janhavi-Shankar-Tripathi
+  researchgate     :  #https://www.researchgate.net/profile/Janhavi-Shankar-Tripathi
   uri              :
   bitbucket        :
   codepen          :
