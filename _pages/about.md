@@ -8,12 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD Candidate in Economics at Fordham University, specializing in International and Financial Economics. At Fordham, I am advised by Prof. Erick W. Rengifo and Prof. Dominick Salvatore.
-
-My research interests are in Financial Economics, International Finance, Behavioral Finance, Financial Markets, FinTech, Empirical Asset Pricing, Applied Econometrics, and Economic Development.
-
-I am also interested in Economic and Business consulting. Before joining the PhD program, I worked in the business consulting industry for 2+ years. I worked with the Business Performance and Advanced Analytics team at ZS, providing business-relevant analytics and insights to a major US Pharma client.
-
+I am a PhD Candidate in Economics at Fordham University, specializing in International and Financial Economics. At Fordham, I am advised by Prof. Erick W. Rengifo and Prof. Dominick Salvatore. <br>
+My research interests are in Financial Economics, International Finance, Behavioral Finance, Financial Markets, FinTech, Empirical Asset Pricing, Applied Econometrics, and Economic Development. <br>
+I am also interested in Economic and Business consulting. Before joining the PhD program, I worked in the business consulting industry for 2+ years. I worked with the Business Performance and Advanced Analytics team at ZS, providing business-relevant analytics and insights to a major US Pharma client. <br>
 I hold an MSc in Economics from the School of Economics, Symbiosis International University, and a BSc in Physics (Major), Mathematics and Statistics from Fergusson College, University of Pune.
 
 Contact
