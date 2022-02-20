@@ -71,6 +71,12 @@ Awards, Honors, Fellowships
 * Selected among 55 students across India for National Initiative on Undergraduate Sciences (NIUS) - Physics camp 9.1, HBCSE-TIFR, 2012 <br>
 * Selected among 30 students across India for Radio Astronomy Winter School (RAWSc 2011) and won the first prize as a group for work and poster presentation on AstroSat, IUCAA and NCRA-TIFR, 2011 <br>
 
+Publications
+======
+- **Tripathi, J. S.** (2016). **Trade-Growth Nexus: A Study of G20 Countries.** IOSR J Econ Finance, 7(3), 60-70.
+- Desai, N., and **Tripathi, J. S.** (2016). **Rupee Exchange Rate Dynamic from 1993 to 2011: Study of Factors Driving the Exchange Rate.** IOSR J Econ Finance, 7(2), 19-25.
+
+
 
 <!--
 * Summer 2015: Research Assistant
