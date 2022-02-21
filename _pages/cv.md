@@ -87,8 +87,8 @@ Selected Academic Projects
 
 Talks and Presentations
 ======
-- Fordham Fall 2021 Finance workshop, The Impact of Fractional Trading on Risk Aversion for Non-professional Investors
-- Fordham Spring 2021 Macro/International Finance workshop, The Impact of Fractional Trading on Risk Aversion for Non-professional Investors
+- Fordham Fall 2021 Finance Workshop, The Impact of Fractional Trading on Risk Aversion for Non-professional Investors
+- Fordham Spring 2021 Macro/International Finance Workshop, The Impact of Fractional Trading on Risk Aversion for Non-professional Investors
 
 
 <!-- 
