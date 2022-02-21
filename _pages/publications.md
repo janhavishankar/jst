@@ -28,10 +28,6 @@ Thesis
 - MSc Thesis: Trade-Growth Nexus: A Study of G20 Countries
 - BSc Thesis: Magneto-Hydrodynamics and Dynamo Theory
 
-Other Selected Projects
-======
-- Predicting COVID-19 Cases Using Google Community Mobility Report, 2020
-- Performance Analysis and Estimation of Production Function for Indian Automobile Sector, 2015
 
 
 <!--
