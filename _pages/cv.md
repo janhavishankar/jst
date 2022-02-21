@@ -73,6 +73,23 @@ Awards, Honors, Fellowships
 
 Publications
 ======
+- **Tripathi, J. S.** (2016). **Trade-Growth Nexus: A Study of G20 Countries.** IOSR J Econ Finance, 7(3), 60-70.
+- Desai, N., and **Tripathi, J. S.** (2016). **Rupee Exchange Rate Dynamic from 1993 to 2011: Study of Factors Driving the Exchange Rate.** IOSR J Econ Finance, 7(2), 19-25.
+
+Selected Projects
+======
+- The Impact of Fractional Trading on Risk Aversion for Non-professional Investors, 2021
+- Trade-Growth Nexus: A Study of G20 Countries using Simultaneous Equations Model with Dynamic Policy Simulations, 2021
+- Predicting COVID-19 Cases Using Google Community Mobility Report, 2020
+- Trade-Growth Nexus: A Study of G20 Countries (MSc Thesis), 2016
+- Performance Analysis and Estimation of Production Function for Indian Automobile Sector, 2015
+- Magneto-Hydrodynamics and Dynamo Theory (BSc Thesis), 2014
+
+Talks and Presentations
+======
+- Fordham Fall 2021 Finance workshop, The Impact of Fractional Trading on Risk Aversion for Non-professional Investors
+- Fordham Spring 2021 Macro/International Finance workshop, The Impact of Fractional Trading on Risk Aversion for Non-professional Investors
+
 
 <!--Publications
 ======
