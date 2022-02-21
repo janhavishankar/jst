@@ -8,12 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Janhavi Shankar is a PhD Candidate in Economics at Fordham University, specializing in International and Financial Economics. At Fordham, he is advised by Prof. Erick W. Rengifo and Prof. Dominick Salvatore.
-
-His research interests are in Financial Economics, International Finance, Behavioral Finance, Financial Markets, FinTech, Empirical Asset Pricing, Applied Econometrics, and Economic Development.
-
-He is also interested in Economic and Business consulting. Before joining the PhD program, Janhavi Shankar worked in the business consulting industry for 2+ years. He worked with the Business Performance and Advanced Analytics team at ZS, providing business-relevant analytics and insights to a major US Pharma client.
-
+Janhavi Shankar is a PhD Candidate in Economics at Fordham University, specializing in International and Financial Economics. At Fordham, he is advised by Prof. Erick W. Rengifo and Prof. Dominick Salvatore. <br>
+His research interests are in Financial Economics, International Finance, Behavioral Finance, Financial Markets, FinTech, Empirical Asset Pricing, Applied Econometrics, and Economic Development. <br>
+He is also interested in Economic and Business consulting. Before joining the PhD program, Janhavi Shankar worked in the business consulting industry for 2+ years. He worked with the Business Performance and Advanced Analytics team at ZS, providing business-relevant analytics and insights to a major US Pharma client. <br>
 Janhavi Shankar holds an MSc in Economics from the School of Economics, Symbiosis International University, and a BSc in Physics (Major), Mathematics and Statistics from Fergusson College, University of Pune.
 
 Contact
