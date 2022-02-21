@@ -71,12 +71,12 @@ Awards, Honors, Fellowships
 * Selected among 55 students across India for National Initiative on Undergraduate Sciences (NIUS) - Physics camp 9.1, HBCSE-TIFR, 2012 <br>
 * Selected among 30 students across India for Radio Astronomy Winter School (RAWSc 2011) and won the first prize as a group for work and poster presentation on AstroSat, IUCAA and NCRA-TIFR, 2011 <br>
 
-<!-- Publications
+Publications
 ======
 - **Tripathi, J. S.** (2016). **Trade-Growth Nexus: A Study of G20 Countries.** IOSR J Econ Finance, 7(3), 60-70.
 - Desai, N., and **Tripathi, J. S.** (2016). **Rupee Exchange Rate Dynamic from 1993 to 2011: Study of Factors Driving the Exchange Rate.** IOSR J Econ Finance, 7(2), 19-25.
 
-Selected Projects
+Selected Academic Projects
 ======
 - The Impact of Fractional Trading on Risk Aversion for Non-professional Investors, 2021
 - Trade-Growth Nexus: A Study of G20 Countries using Simultaneous Equations Model with Dynamic Policy Simulations, 2021
@@ -90,19 +90,8 @@ Talks and Presentations
 - Fordham Fall 2021 Finance workshop, The Impact of Fractional Trading on Risk Aversion for Non-professional Investors
 - Fordham Spring 2021 Macro/International Finance workshop, The Impact of Fractional Trading on Risk Aversion for Non-professional Investors
 
-<!-- Publications
-======
-- **Tripathi, J. S.** (2016). **Trade-Growth Nexus: A Study of G20 Countries.** IOSR J Econ Finance, 7(3), 60-70.
-- Desai, N., and **Tripathi, J. S.** (2016). **Rupee Exchange Rate Dynamic from 1993 to 2011: Study of Factors Driving the Exchange Rate.** IOSR J Econ Finance, 7(2), 19-25.
 
-Research Projects
-======
-- Predicting COVID-19 Cases Using Google Community Mobility Report, 2020
-- Trade-Growth Nexus: A Study of G20 Countries, 2016 (MSc Thesis)
-- Performance Analysis and Estimation of Production Function for Indian Automobile Sector, 2015 
-- Magneto-Hydrodynamics and Dynamo Theory, 2014 (BSc Thesis) -->
-
-<!--
+<!-- 
 * Summer 2015: Research Assistant
   * Github University
   * Duties included: Tagging issues
@@ -110,8 +99,7 @@ Research Projects
 
 * December 2011 - January 2011 : RAWSC Scholar
   * IUCAA, Pune
-  * Radio Astronomy Winter School
--->
+  * Radio Astronomy Winter School -->
 
 <!--
 Skills
