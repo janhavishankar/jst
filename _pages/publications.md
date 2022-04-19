@@ -30,7 +30,8 @@ Thesis
 
 Other Selected Projects
 ======
-- Predicting COVID-19 Cases Using Google Community Mobility Report, 2020
+- Predicting COVID-19 Cases Using Google Community Mobility Report, 2020 <br>
+Abstract: The recent global outbreak of Coronavirus disease (COVID-19) has affected many countries worldwide. To tackle this pandemic, governments worldwide have implemented a range of stringent policies, including stay-at-home 'lockdowns'; school and workplace closures; cancellation of events and public gatherings; and restrictions on public transports. These steps were taken to slow the spread of the virus by enforcing physical distance between people. In this study, I am using data mining techniques such as regression and neural networks to predict the number of COVID-19 new cases in Arizona, California, and New Jersey-based on the metrics available in the Community mobility report. The metrics in Google Community Mobility Report might help predict COVID-19 numbers and analyze the pandemic. Utilizing data mining techniques on this data can provide us a better insight into the COVID-19 outbreak in the states and help manage the health crisis in the states and countries worldwide.
 - Performance Analysis and Estimation of Production Function for Indian Automobile Sector, 2015
 
 
