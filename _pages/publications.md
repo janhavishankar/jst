@@ -25,14 +25,17 @@ Publications
 
 Thesis
 ======
-- MSc Thesis: Trade-Growth Nexus: A Study of G20 Countries
-- BSc Thesis: Magneto-Hydrodynamics and Dynamo Theory
+- MSc Thesis: Trade-Growth Nexus: A Study of G20 Countries <br>
+Abstract: The focus of this project is to understand the relationship between Trade openness of an economy and its economic growth. We have made an attempt to study the dynamics between trade and growth (T- G) for the G20 countries. The study has been performed in two different parts using different methodologies. In the first part, time series analysis has been used and the individual country- wise study has been performed using cointegration and error correction procedures. The evidence of cointegration and Granger causality have been shown in the results section and the results vary from one country to another. After that in the second part, a panel data approach has been taken into consideration. In this part, we have used panel cointegration and panel error correction models (ECM) with GMM estimation to explore the causal relationship between trade openness and economic growth. For the panel data part the period of study is 1989- 2013. Using the results we have shown the results whether there is causality between trade and growth or not. In the study both long run and short run causality has been considered.
+- BSc Thesis: Magneto-Hydrodynamics and Dynamo Theory <br>
+Abstract: This project was aimed to study and understand the evolution of magnetic field in galaxies using Magneto-hydrodynamics and Dynamo theory.This project involved in depth mathematical analysis and use of IDL (Interactive Data Language) to simulate magnetic field and show its growth over the period of time in galaxies.
 
 Other Selected Projects
 ======
 - Predicting COVID-19 Cases Using Google Community Mobility Report, 2020 <br>
 Abstract: The recent global outbreak of Coronavirus disease (COVID-19) has affected many countries worldwide. To tackle this pandemic, governments worldwide have implemented a range of stringent policies, including stay-at-home 'lockdowns'; school and workplace closures; cancellation of events and public gatherings; and restrictions on public transports. These steps were taken to slow the spread of the virus by enforcing physical distance between people. In this study, I am using data mining techniques such as regression and neural networks to predict the number of COVID-19 new cases in Arizona, California, and New Jersey-based on the metrics available in the Community mobility report. The metrics in Google Community Mobility Report might help predict COVID-19 numbers and analyze the pandemic. Utilizing data mining techniques on this data can provide us a better insight into the COVID-19 outbreak in the states and help manage the health crisis in the states and countries worldwide.
-- Performance Analysis and Estimation of Production Function for Indian Automobile Sector, 2015
+- Performance Analysis and Estimation of Production Function for Indian Automobile Sector, 2015 <br>
+Abstract: This project involved examining of the productivity performance using growth accounting approach and further an econometric study was done using Gretl in order to understand the nature and degree of substitutability of the production function for Indian automobile sector.
 
 
 <!--
