@@ -44,7 +44,7 @@ Experience
   Graduate School of Arts and Sciences, Fordham University, NY, USA <br>
 -- Research Assistant to Prof. Dominick Salvatore  
   
-* Researcher - Crypto Asset and Blockchain Research, Jun 2020 - Aug 2020 <br>
+* Research Intern - Crypto Asset and Blockchain Research, Jun 2020 - Aug 2020 <br>
   Centre for Alternative Finance, Cambridge Judge Business School <br>
 -- Global Alternative Finance Benchmark Study, 3rd edition of Global Crypto Asset Benchmarking Study
 
