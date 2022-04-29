@@ -26,8 +26,8 @@ Publications
 
 Thesis
 ======
-- MSc Thesis (2016): Trade-Growth Nexus: A Study of G20 Countries.
-- BSc Thesis (2014): Magneto-Hydrodynamics and Dynamo Theory.
+- MSc Thesis (2016): Trade-Growth Nexus: A Study of G20 Countries
+- BSc Thesis (2014): Magneto-Hydrodynamics and Dynamo Theory
 
 Other Selected Projects
 ======
