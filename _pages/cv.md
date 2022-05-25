@@ -71,6 +71,17 @@ Awards, Honors, Fellowships
 * Selected among 55 students across India for National Initiative on Undergraduate Sciences (NIUS) - Physics camp 9.1, HBCSE-TIFR, 2012 <br>
 * Selected among 30 students across India for Radio Astronomy Winter School (RAWSc 2011) and won the first prize as a group for work and poster presentation on AstroSat, IUCAA and NCRA-TIFR, 2011 <br>
 
+Talks and Presentations
+======
+2022: FRL 2022 CEMLA Conference on New Advances in International Finance <br>
+2021: Fordham Fall 2021 Finance Workshop, Fordham Spring 2021 Macro/International Finance Workshop
+
+Discussant and Referee Activities
+======
+2022: Discussant for "Can fake news impact the stock market? Evidence from politicians' statements" by Rodrigo de Oliveria Leite, Matheus Moura, & Patrick Behr at the FRL 2022 CEMLA Conference on New Advances in International Finance
+
+
+
 <!-- Publications
 ======
 - **Tripathi, J. S.** (2016). **Trade-Growth Nexus: A Study of G20 Countries.** IOSR J Econ Finance, 7(3), 60-70.
