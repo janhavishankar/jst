@@ -71,6 +71,10 @@ Awards, Honors, Fellowships
 * Selected among 55 students across India for National Initiative on Undergraduate Sciences (NIUS) - Physics camp 9.1, HBCSE-TIFR, 2012 <br>
 * Selected among 30 students across India for Radio Astronomy Winter School (RAWSc 2011) and won the first prize as a group for work and poster presentation on AstroSat, IUCAA and NCRA-TIFR, 2011 <br>
 
+Publications
+======
+
+
 Talks and Presentations
 ======
 2022: FRL 2022 CEMLA Conference on New Advances in International Finance <br>
