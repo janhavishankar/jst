@@ -73,7 +73,18 @@ Awards, Honors, Fellowships
 
 Publications
 ======
+- **Tripathi, J. S.** (2016). **Trade-Growth Nexus: A Study of G20 Countries.** IOSR J Econ Finance, 7(3), 60-70.  [[Link](http://www.iosrjournals.org/iosr-jef/papers/Vol7-Issue3/Version-2/G0703026070.pdf)]. <br>
+- Desai, N., & **Tripathi, J. S.** (2016). **Rupee Exchange Rate Dynamic from 1993 to 2011: Study of Factors Driving the Exchange Rate.** IOSR J Econ Finance, 7(2), 19-25.  [[Link](http://www.iosrjournals.org/iosr-jef/papers/Vol7-Issue2/Version-2/C0702021925.pdf)].
 
+Working Papers
+======
+- **Tripathi, J. S.**, & Rengifo, E. W. (2021). **The Impact of Fractional Trading on Risk Aversion for Non-professional Investors.** <br>
+- **Tripathi, J. S.** (2021). **Trade-Growth Nexus: A Study of G20 Countries using Simultaneous Equations Model with Dynamic Policy Simulations.**
+
+Works in Progress
+======
+- The Impact of Fractional Trading on Orderbook Dynamics <br>
+- The Impact of Fractional Trading on Risk Aversion for Non-professional Investors under the Prospect Theory Framework
 
 Talks and Presentations
 ======
