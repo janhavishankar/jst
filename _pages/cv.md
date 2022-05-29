@@ -40,7 +40,7 @@ Education
 
 Experience
 ======
-* Research Intern - Fund Internship Program, Jun 2022 - present <br>
+* Research Intern (Fund Internship Program), Jun 2022 - present <br>
   International Monetary Fund, Washington DC, USA <br>
 -- Financial Supervision and Regulation Division, Monetary and Capital Markets Department  
 
