@@ -21,8 +21,8 @@ Works in Progress
 
 Publications
 ======
-- **Tripathi, J. S.** (2016). **Trade-Growth Nexus: A Study of G20 Countries.** IOSR J Econ Finance, 7(3), 60-70.  [[Link](https://iosrjournals.org/iosr-jef/papers/Vol7-Issue3/Version-2/G0703026070.pdf))].
-- Desai, N., & **Tripathi, J. S.** (2016). **Rupee Exchange Rate Dynamic from 1993 to 2011: Study of Factors Driving the Exchange Rate.** IOSR J Econ Finance, 7(2), 19-25.  [[Link](https://iosrjournals.org/iosr-jef/papers/Vol7-Issue2/Version-2/C0702021925.pdf))].
+- **Tripathi, J. S.** (2016). **Trade-Growth Nexus: A Study of G20 Countries.** IOSR J Econ Finance, 7(3), 60-70.  [[Link]((https://iosrjournals.org/iosr-jef/papers/Vol7-Issue3/Version-2/G0703026070.pdf))].
+- Desai, N., & **Tripathi, J. S.** (2016). **Rupee Exchange Rate Dynamic from 1993 to 2011: Study of Factors Driving the Exchange Rate.** IOSR J Econ Finance, 7(2), 19-25.  [[Link]((https://iosrjournals.org/iosr-jef/papers/Vol7-Issue2/Version-2/C0702021925.pdf))].
 
 Thesis
 ======
