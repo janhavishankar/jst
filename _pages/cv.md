@@ -40,9 +40,9 @@ Education
 
 Experience
 ======
-* Research Intern (Fund Internship Program), Jun 2022 - present <br>
-  International Monetary Fund, Washington DC, USA <br>
--- Financial Supervision and Regulation Division, Monetary and Capital Markets Department  
+* Research Intern - Financial Supervision and Regulation, Jun 2022 - present <br>
+  Monetary and Capital Markets Department, International Monetary Fund, Washington DC, USA <br>
+-- Fund Internship Program 
 
 * Graduate Research Assistant, Aug 2018 - present <br>
   Graduate School of Arts and Sciences, Fordham University, NY, USA <br>
