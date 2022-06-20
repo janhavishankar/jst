@@ -88,7 +88,7 @@ Works in Progress
 ======
 - The Impact of Fractional Trading on Orderbook Dynamics <br>
 - The Impact of Fractional Trading on Risk Aversion for Non-professional Investors under the Prospect Theory Framework <br>
-- Exchange Traded Funds, Market Liquidity and Financial Stability
+- Exchange Traded Funds, Market Liquidity, and Financial Stability
 
 Talks and Presentations
 ======
