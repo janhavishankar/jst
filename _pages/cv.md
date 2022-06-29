@@ -82,12 +82,12 @@ Publications
 
 Working Papers
 ======
+- **Tripathi, J. S.**, & Rengifo, E. W. (2022). **The Impact of Fractional Trading on Orderbook Dynamics.** <br>
 - **Tripathi, J. S.**, & Rengifo, E. W. (2021). **The Impact of Fractional Trading on Risk Aversion for Non-professional Investors.** <br>
 - **Tripathi, J. S.** (2021). **Trade-Growth Nexus: A Study of G20 Countries using Simultaneous Equations Model with Dynamic Policy Simulations.**
 
 Works in Progress
 ======
-- The Impact of Fractional Trading on Orderbook Dynamics <br>
 - The Impact of Fractional Trading on Risk Aversion for Non-professional Investors under the Prospect Theory Framework <br>
 - Exchange Traded Funds, Market Liquidity, and Financial Stability
 
