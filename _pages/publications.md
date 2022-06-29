@@ -7,7 +7,7 @@ author_profile: true
 
 Working Papers
 ======
-- **Tripathi, J. S.**, & Rengifo, E. W. (2021). **The Impact of Fractional Trading on Order Book Dynamics.** <br>
+- **Tripathi, J. S.**, & Rengifo, E. W. (2022). **The Impact of Fractional Trading on Order Book Dynamics.** <br>
 Abstract: This paper studies the impact of fractional trading on the price-volume structure observed in the limit order books. Fractional trading has been a recent introduction in equities markets on multiple trading platforms, allowing individuals to buy a fraction of a share of stocks or ETFs (exchange-traded funds). Fractional trading, along with the direct and easier access to the markets through commission-less trading apps, can potentially modify the risk appetite of non-professional investors (who are generally myopic and risk-averse) and create opportunities for portfolio creation and diversification, hence increasing the demand for stocks. It can also impact non-professional investors' investment behavior, price levels, and market volatility. In this paper, we study the impact of fractional trading on the price levels and order book dynamics observed in the market. We find that there has been a significant increase in the slope of the price-volume structure, and in some cases, there is an increase in the number of steps required to place a limit order after the introduction of fractional trading. Our results suggest that increased demand for stocks led by easiness to trade stocks and fractional trading impacts the order book's price formation process and price-volume structure. <br>
 
 - **Tripathi, J. S.**, & Rengifo, E. W. (2021). **The Impact of Fractional Trading on Risk Aversion for Non-professional Investors.** <br>
