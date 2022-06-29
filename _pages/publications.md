@@ -19,7 +19,6 @@ Abstract: This paper studies the relationship between trade openness and economi
 
 Works in Progress
 ======
-- The Impact of Fractional Trading on Orderbook Dynamics
 - The Impact of Fractional Trading on Risk Aversion for Non-professional Investors under the Prospect Theory Framework
 - Exchange Traded Funds, Market Liquidity, and Financial Stability
 
