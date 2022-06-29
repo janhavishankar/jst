@@ -30,9 +30,9 @@ Publications
 Other Selected Projects
 ======
 - Predicting COVID-19 Cases Using Google Community Mobility Report, 2020
-- Trade-Growth Nexus: A Study of G20 Countries, 2016 (MSc Thesis)
+- Trade-Growth Nexus: A Study of G20 Countries, 2016 [MSc Thesis]
 - Performance Analysis and Estimation of Production Function for Indian Automobile Sector, 2015
-- Magneto-Hydrodynamics and Dynamo Theory, 2014 (BSc Thesis)
+- Magneto-Hydrodynamics and Dynamo Theory, 2014 [BSc Thesis]
 
 
 <!--
