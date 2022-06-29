@@ -27,15 +27,12 @@ Publications
 - **Tripathi, J. S.** (2016). **Trade-Growth Nexus: A Study of G20 Countries.** IOSR J Econ Finance, 7(3), 60-70.  [[Link](https://www.iosrjournals.org/iosr-jef/papers/Vol7-Issue3/Version-2/G0703026070.pdf)].
 - Desai, N., & **Tripathi, J. S.** (2016). **Rupee Exchange Rate Dynamic from 1993 to 2011: Study of Factors Driving the Exchange Rate.** IOSR J Econ Finance, 7(2), 19-25.  [[Link](https://www.iosrjournals.org/iosr-jef/papers/Vol7-Issue2/Version-2/C0702021925.pdf)].
 
-Thesis
-======
-- MSc Thesis (2016): Trade-Growth Nexus: A Study of G20 Countries
-- BSc Thesis (2014): Magneto-Hydrodynamics and Dynamo Theory
-
 Other Selected Projects
 ======
 - Predicting COVID-19 Cases Using Google Community Mobility Report, 2020
+- Trade-Growth Nexus: A Study of G20 Countries, 2016 (MSc Thesis)
 - Performance Analysis and Estimation of Production Function for Indian Automobile Sector, 2015
+- Magneto-Hydrodynamics and Dynamo Theory, 2014 (BSc Thesis)
 
 
 <!--
