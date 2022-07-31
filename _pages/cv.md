@@ -47,7 +47,7 @@ Experience
   Monetary and Capital Markets Department, International Monetary Fund, Washington DC, USA <br>
 -- Exchange Traded Funds, Market Liquidity, and Financial Stability
 
-* Graduate Research and Teaching Assistant, Aug 2018 - present <br>
+* Graduate Assistant, Aug 2018 - present <br>
   Graduate School of Arts and Sciences, Fordham University, NY, USA <br>
 -- Graduate Research and Teaching Assistant to Prof. Dominick Salvatore  
   
