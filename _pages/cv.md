@@ -47,9 +47,9 @@ Experience
   Monetary and Capital Markets Department, International Monetary Fund, Washington DC, USA <br>
 -- Exchange Traded Funds, Market Liquidity, and Financial Stability
 
-* Graduate Research Assistant, Aug 2018 - present <br>
+* Graduate Research and Teaching Assistant, Aug 2018 - present <br>
   Graduate School of Arts and Sciences, Fordham University, NY, USA <br>
--- Research Assistant to Prof. Dominick Salvatore  
+-- Graduate Research and Teaching Assistant to Prof. Dominick Salvatore  
   
 * Research Intern - Cryptoasset and Blockchain Research, Jun 2020 - Aug 2020 <br>
   Centre for Alternative Finance, Cambridge Judge Business School <br>
