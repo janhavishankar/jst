@@ -91,6 +91,7 @@ Working Papers
 
 Works in Progress
 ======
+- Bond ETF Performance During Covid-19 Crisis (w/ Jay S. Surti) <br>
 - The Impact of Fractional Trading on Risk Aversion for Non-professional Investors under the Prospect Theory Framework (w/ Erick W. Rengifo) <br>
 - Exchange Traded Funds, Market Liquidity, and Financial Stability (w/ Jay S. Surti)
 
