@@ -18,7 +18,7 @@ Abstract: This paper studies the relationship between trade openness and economi
 
 Works in Progress
 ======
-- Bond ETFs Performance During Covid-19 Crisis (w/ Jay S. Surti)
+- Bond ETF Performance During the Covid-19 Crisis (w/ Jay S. Surti)
 - The Impact of Fractional Trading on Risk Aversion for Non-professional Investors under the Prospect Theory Framework (w/ Erick W. Rengifo)
 - Exchange Traded Funds, Market Liquidity, and Financial Stability (w/ Jay S. Surti)
 
