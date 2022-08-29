@@ -45,7 +45,7 @@ Experience
 ======
 * Research Intern (Fund Internship Program) - Financial Supervision and Regulation, Jun 2022 - present <br>
   Monetary and Capital Markets Department, International Monetary Fund, Washington DC, USA <br>
--- Exchange Traded Funds, Market Liquidity, and Financial Stability
+-- Bond ETF Performance During the COVID-19 Crisis
 
 * Graduate Research and Teaching Assistant, Aug 2018 - present <br>
   Graduate School of Arts and Sciences, Fordham University, NY, USA <br>
