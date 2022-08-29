@@ -97,7 +97,7 @@ Works in Progress
 
 Talks and Presentations
 ======
-2022: IMF MCM Policy Forum, FRL 2022 CEMLA Conference on New Advances in International Finance <br>
+2022: IMF Monetary & Capital Markets Policy Forum, FRL 2022 CEMLA Conference on New Advances in International Finance <br>
 2021: Fordham Fall 2021 Finance Workshop, Fordham Spring 2021 Macro/International Finance Workshop
 
 Discussant and Referee Activities
