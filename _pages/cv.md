@@ -85,7 +85,7 @@ Publications
 
 Working Papers
 ======
-- **Tripathi, J. S.**, & Surti, J. (2022).**Bond ETF Performance During the Covid-19 Crisis.** <br>
+- **Tripathi, J. S.**, & Surti, J. (2022). **Bond ETF Performance During the Covid-19 Crisis.** <br>
 - **Tripathi, J. S.**, & Rengifo, E. W. (2022). **The Impact of Fractional Trading on Orderbook Dynamics.** <br>
 - **Tripathi, J. S.**, & Rengifo, E. W. (2021). **The Impact of Fractional Trading on Risk Aversion for Non-professional Investors.** <br>
 - **Tripathi, J. S.** (2021). **Trade-Growth Nexus: A Study of G20 Countries using Simultaneous Equations Model with Dynamic Policy Simulations.**
