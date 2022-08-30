@@ -92,8 +92,8 @@ Working Papers
 
 Works in Progress
 ======
-- The Impact of Fractional Trading on Risk Aversion for Non-professional Investors under the Prospect Theory Framework. (w/ Erick W. Rengifo). <br>
-- Exchange Traded Funds, Market Liquidity, and Financial Stability. (w/ Jay Surti).
+- **The Impact of Fractional Trading on Risk Aversion for Non-professional Investors under the Prospect Theory Framework.** (w/ Erick W. Rengifo). <br>
+- **Exchange Traded Funds, Market Liquidity, and Financial Stability.** (w/ Jay Surti).
 
 Talks and Presentations
 ======
