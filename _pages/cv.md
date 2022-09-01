@@ -43,7 +43,7 @@ Education
 
 Experience
 ======
-* Graduate Research and Teaching Assistant, Aug 2018 - present <br>
+* Graduate Research and Teaching Assistant - Department of Economics, Aug 2018 - present <br>
   Graduate School of Arts and Sciences, Fordham University, NY, USA <br>
 -- Graduate Research and Teaching Assistant to Prof. Dominick Salvatore
 
@@ -64,7 +64,7 @@ Experience
 -- Assessing retailers' fruits and vegetables procurement pattern in Pune city and developing an efficient framework for collection of fruits and vegetables from farmers and supplying them to the consumers
  
 * Project Student - Galactic Dynamos, Dec 2012 - Jan 2014 <br>
-   Inter-University Centre for Astronomy and Astrophysics (IUCAA), Pune, India <br>
+   Inter- University Centre for Astronomy and Astrophysics (IUCAA), Pune, India <br>
 -- Magnetohydrodynamics and Dynamo Theory
 
 Awards, Honors, Fellowships
