@@ -60,11 +60,11 @@ Experience
 -- Multi-channel Marketing (MCM), Key Drivers Analytics (KDA), Business Performance
  
 * Research Intern - Data Analytics, Apr 2015 - Jun 2015 <br>
-  SCMHRD, Pune, India <br>
+  Symbiosis Centre for Management and Human Resource Development (SCMHRD), Pune, India <br>
 -- Assessing retailers' fruits and vegetables procurement pattern in Pune city and developing an efficient framework for collection of fruits and vegetables from farmers and supplying them to the consumers
  
 * Project Student - Galactic Dynamos, Dec 2012 - Jan 2014 <br>
-   IUCAA, Pune, India <br>
+   Inter-University Centre for Astronomy and Astrophysics (IUCAA), Pune, India <br>
 -- Magnetohydrodynamics and Dynamo Theory
 
 Awards, Honors, Fellowships
