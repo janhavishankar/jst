@@ -63,9 +63,9 @@ Experience
   SCMHRD, Pune, India <br>
 -- Assessing retailers' fruits and vegetables procurement pattern in Pune city and developing an efficient framework for collection of fruits and vegetables from farmers and supplying them to the consumers
  
-* Project Student, Dec 2012 - Jan 2014 <br>
+* Project Student - Galactic Dynamos, Dec 2012 - Jan 2014 <br>
    IUCAA, Pune, India <br>
--- Galactic Dynamos
+-- Magnetohydrodynamics and Dynamo Theory
 
 Awards, Honors, Fellowships
 ======
