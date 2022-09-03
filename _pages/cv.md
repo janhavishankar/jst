@@ -103,7 +103,7 @@ Talks and Presentations
 
 Discussant and Referee Activities
 ======
-- Discussant for "Can fake news impact the stock market? Evidence from politicians' statements" by Rodrigo de Oliveria Leite, Matheus Moura, & Patrick Behr at the FRL 2022 CEMLA Conference on New Advances in International Finance, Apr 2021 <br>
+- Discussant for "Can fake news impact the stock market? Evidence from politicians' statements" by Rodrigo de Oliveria Leite, Matheus Moura, & Patrick Behr at the FRL 2022 CEMLA Conference on New Advances in International Finance, Apr 2022 <br>
 
 Referee services: Finance Research Letters
 
