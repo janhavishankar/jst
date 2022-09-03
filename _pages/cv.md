@@ -96,12 +96,14 @@ Works in Progress
 
 Talks and Presentations
 ======
-2022: IMF Monetary & Capital Markets Policy Forum, FRL 2022 CEMLA Conference on New Advances in International Finance <br>
-2021: Fordham Fall 2021 Finance Workshop, Fordham Spring 2021 Macro/International Finance Workshop
+- IMF Monetary & Capital Markets Policy Forum, Aug 2022 <br>
+- FRL 2022 CEMLA Conference on New Advances in International Finance, Apr 2022 <br>
+- Fordham Fall 2021 Finance Workshop, Nov 2021 <br>
+- Fordham Spring 2021 Macro/International Finance Workshop, May 2021
 
 Discussant and Referee Activities
 ======
-2022: Discussant for "Can fake news impact the stock market? Evidence from politicians' statements" by Rodrigo de Oliveria Leite, Matheus Moura, & Patrick Behr at the FRL 2022 CEMLA Conference on New Advances in International Finance <br>
+- Discussant for "Can fake news impact the stock market? Evidence from politicians' statements" by Rodrigo de Oliveria Leite, Matheus Moura, & Patrick Behr at the FRL 2022 CEMLA Conference on New Advances in International Finance, Apr 2021 <br>
 
 Referee services: Finance Research Letters
 
