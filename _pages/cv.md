@@ -85,13 +85,13 @@ Publications
 Working Papers
 ======
 - **Bond ETF Performance During the Covid-19 Crisis.** (2022). (w/ Jay Surti). <br>
-- **The Impact of Fractional Trading on Orderbook Dynamics.** (2022). (w/ Erick W. Rengifo). <br>
-- **The Impact of Fractional Trading on Risk Aversion for Non-professional Investors.** (2021). (w/ Erick W. Rengifo). <br>
+- **The Impact of Fractional Trading on Orderbook Dynamics.** (2022). (w/ Erick Rengifo). <br>
+- **The Impact of Fractional Trading on Risk Aversion for Non-professional Investors.** (2021). (w/ Erick Rengifo). <br>
 - **Trade-Growth Nexus: A Study of G20 Countries using Simultaneous Equations Model with Dynamic Policy Simulations.** (2021).
 
 Works in Progress
 ======
-- **The Impact of Fractional Trading on Risk Aversion for Non-professional Investors under the Prospect Theory Framework.** (w/ Erick W. Rengifo). <br>
+- **The Impact of Fractional Trading on Risk Aversion for Non-professional Investors under the Prospect Theory Framework.** (w/ Erick Rengifo). <br>
 - **Exchange Traded Funds, Market Liquidity, and Financial Stability.** (w/ Jay Surti).
 
 Talks and Presentations
