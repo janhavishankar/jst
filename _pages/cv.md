@@ -30,6 +30,7 @@ Education
   Advanced Certificate, Financial Econometrics and Data Analysis, 2019 - 2020 <br>
   Graduate School of Arts and Sciences, Fordham University, NY, USA <br>
   Fields: International and Financial Economics
+  Thesis: Topics on Fractional Trading and Trade-Growth Nexus
      
 * MSc in Economics, 2014 - 2016 <br>
   School of Economics, Symbiosis International University, Pune, India <br>
