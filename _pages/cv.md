@@ -29,7 +29,7 @@ Education
   MA in Economics (Econometrics and Quantitative Economics), 2018 - 2020 <br>
   Advanced Certificate, Financial Econometrics and Data Analysis, 2019 - 2020 <br>
   Graduate School of Arts and Sciences, Fordham University, NY, USA <br>
-  Fields: International and Financial Economics
+  Fields: International and Financial Economics <br>
   Thesis: Topics on Fractional Trading and Trade-Growth Nexus
      
 * MSc in Economics, 2014 - 2016 <br>
