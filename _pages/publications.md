@@ -6,7 +6,7 @@ author_profile: true
 ---
 Working Papers
 ======
-- **Bond ETF Performance During the COVID-19 Crisis.** (2022). (w/ Jay Surti). Forthcoming IMF Working Paper, 2022. <br>
+- **Bond ETF Performance During the COVID-19 Crisis.** (2022). (w/ Jay Surti). IMF Working Paper, Forthcoming 2022. <br>
 Presented at: IMF Monetary & Capital Markets Policy Forum <br>
 Abstract: Arbitrage activity by large banks (called APs) is vital to ensuring efficiency and stability of ETF performance. Exploiting the availability of data for the period of the Covid-19 associated market instability, we analyze and contrast APs’ arbitrage activity in normal versus stressed market conditions for a representative database of passive, fixed income ETFs. We find that APs trade ETF shares and bonds in a manner consistent with the arbitrage incentives predicted by theory, in normal times, for corporate bond ETFs, but not for broad market ETFs. For corporate bond ETFs, these incentives were dented significantly during March-April 2020 resulting in persistent, larger discounts-to-NAV of ETF share prices until the Fed’s policy interventions turned the tide. APs’ incentives to manage bond inflow shocks during this period constitute a key factor generating countervailing incentives, interacting with the liquidity of corporate bond ETFs’ asset portfolios. Our results add to emerging empirical evidence that APs do not trade at a scale necessary to quickly close out price-NAV differentials and also appear to trade in a direction that exacerbates share price discounts-to-NAV during times of stress. We find no significant differences between ETFs that are primarily held by institutional versus retail investors.
 
