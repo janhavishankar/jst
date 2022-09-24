@@ -16,6 +16,9 @@ He is also interested in Economic and Business consulting. Before joining the Ph
 
 Janhavi Shankar holds an MSc in Economics from the School of Economics, Symbiosis International University, and a BSc in Physics (Major), Mathematics, and Statistics from Fergusson College, University of Pune.
 
+Curriculum Vitae[[Link](http://www.iosrjournals.org/iosr-jef/papers/Vol7-Issue3/Version-2/G0703026070.pdf)].
+======
+
 Contact
 ======
 Email: jtripathi@fordham.edu <br> <br>
