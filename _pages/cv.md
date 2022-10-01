@@ -97,6 +97,7 @@ Works in Progress
 
 Talks and Presentations
 ======
+- NYSEA 2022 Conference, Oct 2022 <br>
 - IMF Monetary & Capital Markets Policy Forum, Aug 2022 <br>
 - FRL 2022 CEMLA Conference on New Advances in International Finance, Apr 2022 <br>
 - Fordham Fall 2021 Finance Workshop, Nov 2021 <br>
@@ -104,6 +105,7 @@ Talks and Presentations
 
 Discussant and Referee Activities
 ======
+- Discussant for "Adding Bitcoin to a Portfolio: A Cautionary Tale" by Joan Nix, & Bruce McNevin at the NYSEA 2022 Conference, Oct 2022 <br>
 - Discussant for "Can fake news impact the stock market? Evidence from politicians' statements" by Rodrigo de Oliveria Leite, Matheus Moura, & Patrick Behr at the FRL 2022 CEMLA Conference on New Advances in International Finance, Apr 2022 <br>
 
 Referee services: Finance Research Letters
