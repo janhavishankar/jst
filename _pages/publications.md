@@ -24,7 +24,7 @@ Works in Progress
 ======
 - **The Impact of Fractional Trading on Risk Aversion for Non-professional Investors under the Prospect Theory Framework.** (w/ Erick Rengifo).
 - **Exchange Traded Funds, Market Liquidity, and Financial Stability.** (w/ Jay Surti).
-- **Relationship between Trade and Growth for Developing Countries at Different Levels of Income.** (w/ Dominick Salvatore).
+- **Relationship Between Trade and Growth for Developing Countries at Different Levels of Income.** (w/ Dominick Salvatore).
 
 Publications
 ======
