@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Curriculum Vitae"
+title: "Curriculum Vitae" [[Link](https://github.com/janhavishankar/janhavishankar.github.io/blob/ea94d021ada0398a74d2c3c85e4e8edfbd775948/_pages/Tripathi_CV.pdf)]
 permalink: /cv/
 author_profile: true
 redirect_from:
