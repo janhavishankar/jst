@@ -8,7 +8,7 @@ redirect_from:
 ---
 {% include base_path %}
 
-Janhavi Shankar Tripathi <a href="https://github.com/janhavishankar/janhavishankar.github.io/blob/7319b27c06c40da9ddd1443a5d59d5852ecd3857/_pages/Tripathi_CV.pdf">CV</a>
+Janhavi Shankar Tripathi
 ======
 PhD Candidate in Economics & Graduate Research and Teaching Assistant at Fordham University, NY, USA
 
