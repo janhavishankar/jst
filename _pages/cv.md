@@ -14,7 +14,7 @@ PhD Candidate in Economics & Graduate Research and Teaching Assistant at Fordham
 
 Contact
 ======
-[Email](mailto:jtripathi@fordham.edu) <br> <br>
+[Email](mailto:jtripathi@fordham.edu): jtripathi@fordham.edu <br> <br>
 Mailing Address: <br>
 Janhavi Shankar Tripathi <br>
 Fordham University <br>
