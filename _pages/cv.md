@@ -111,6 +111,17 @@ Discussant and Referee Activities
 
 Referee services: Finance Research Letters
 
+References
+======
+- Dr. Dominick Salvatore (Co-chair & Mentor) <br>
+Distinguished Professor of Economics, Fordham University <br>
+Email: salvatore@fordham.edu <br>
+
+- 
+
+
+
+
 
 
 <!-- Publications
