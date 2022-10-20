@@ -139,7 +139,7 @@ Department of Economics, Fordham University <br>
 Email: dujames@fordham.edu <br>
 
 - Dr. Johanna L. Francis <br>
-Associate Professor & Department Chair <br>
+Associate Professor of Economics & Department Chair <br>
 Department of Economics, Fordham University <br>
 Email: ajofrancis@fordham.edu <br>
 
