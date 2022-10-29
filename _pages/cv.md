@@ -69,6 +69,7 @@ Experience
 
 Awards, Honors, Fellowships
 ======
+* Fund Internship Program, International Monetary Fund, 2022 <br>
 * Mahony Prowse Scholarship, Fordham University, 2020 <br>
 * Dominick Salvatore Summer Research Fellowship, Fordham University, 2020 <br>
 * Omicron Delta Epsilon (ODE) International Honor Society for Economics Membership, Fordham University, 2019 <br>
