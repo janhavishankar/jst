@@ -30,7 +30,7 @@ Education
   Advanced Certificate, Financial Econometrics and Data Analysis, 2019 - 2020 <br>
   Graduate School of Arts and Sciences, Fordham University, NY, USA <br>
   Fields: International and Financial Economics <br>
-  Thesis: Topics on Fractional Trading and Trade-Growth Nexus
+  Thesis: Topics on Fractional Trading and Trade-Growth Nexus <br>
   Advisors: Prof. Erick Rengifo, Prof. Dominick Salvatore
      
 * MSc in Economics, 2014 - 2016 <br>
