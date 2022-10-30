@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Janhavi Shankar is a PhD Candidate in Econometrics and Quantitative Economics at Fordham University, specializing in International and Financial Economics. At Fordham, he is advised by Prof. Erick Rengifo and Prof. Dominick Salvatore.
+Janhavi Shankar is a PhD Candidate in Econometrics and Quantitative Economics at Fordham University, specializing in International and Financial Economics. Currently, he is working with Professor Dominick Salvatore as his Graduate Research and Teaching Assistant.
 
-His research interests are in Financial Economics, International Finance, Behavioral Finance, Financial Markets, FinTech, Empirical Asset Pricing, Applied Econometrics, and Economic Development.
+His research interests are in Financial Economics, International Finance, Behavioral Finance, Financial Markets, FinTech, Empirical Asset Pricing, Applied Econometrics, and Economic Development. At Fordham, he is advised by Prof. Erick Rengifo and Prof. Dominick Salvatore.
 
 During his PhD studies, Janhavi Shankar worked as a research intern with International Monetary Fund - Monetary and Capital Markets Department in Summer 2022 and University of Cambridge Judge Business School - Center for Alternative Finance in Summer 2020.
 
