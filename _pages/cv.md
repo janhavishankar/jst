@@ -31,7 +31,7 @@ Education
   Graduate School of Arts and Sciences, Fordham University, NY, USA <br>
   Fields: International and Financial Economics <br>
   Thesis: Topics on Fractional Trading and Trade-Growth Nexus <br>
-  Advisors: Prof. Erick Rengifo, Prof. Dominick Salvatore
+  Advisors: Prof. Erick Rengifo and Prof. Dominick Salvatore
      
 * MSc in Economics, 2014 - 2016 <br>
   School of Economics, Symbiosis International University, Pune, India <br>
