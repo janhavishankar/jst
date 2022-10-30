@@ -30,7 +30,8 @@ Education
   Advanced Certificate, Financial Econometrics and Data Analysis, 2019 - 2020 <br>
   Graduate School of Arts and Sciences, Fordham University, NY, USA <br>
   Fields: International and Financial Economics <br>
-  Thesis: Topics on Fractional Trading and Trade-Growth Nexus
+  Thesis: Topics on Fractional Trading and Trade-Growth Nexus <br>
+  Dissertation Committee: Dr. Dominick Salvatore (Co-chair), Dr. Erick W. Rengifo (Co-chair), Dr. Hrishikesh D. Vinod, Dr. Duncan James
      
 * MSc in Economics, 2014 - 2016 <br>
   School of Economics, Symbiosis International University, Pune, India <br>
