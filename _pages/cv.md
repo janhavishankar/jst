@@ -10,7 +10,7 @@ redirect_from:
 
 Janhavi Shankar Tripathi
 ======
-PhD Candidate in Economics & Graduate Research and Teaching Assistant at Fordham University, NY, USA
+PhD Candidate in Econometrics and Quantitative Economics & Graduate Research and Teaching Assistant at Fordham University, NY, USA
 
 Contact
 ======
@@ -69,6 +69,7 @@ Experience
 
 Awards, Honors, Fellowships
 ======
+* Research Internship (Fund Internship Program), International Monetary Fund, 2022 <br>
 * Mahony Prowse Scholarship, Fordham University, 2020 <br>
 * Dominick Salvatore Summer Research Fellowship, Fordham University, 2020 <br>
 * Omicron Delta Epsilon (ODE) International Honor Society for Economics Membership, Fordham University, 2019 <br>
