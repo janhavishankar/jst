@@ -31,7 +31,7 @@ Education
   Graduate School of Arts and Sciences, Fordham University, NY, USA <br>
   Fields: International and Financial Economics <br>
   Thesis: Topics on Fractional Trading and Trade-Growth Nexus <br>
-  Advisors: Prof. Erick Rengifo and Prof. Dominick Salvatore
+  Advisors: Prof. Dominick Salvatore (Co-chair & Mentor), Prof. Erick W. Rengifo (Co-chair & Mentor), Prof. Hrishikesh D. Vinod, Prof. Duncan James 
      
 * MSc in Economics, 2014 - 2016 <br>
   School of Economics, Symbiosis International University, Pune, India <br>
