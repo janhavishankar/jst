@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Curriculum Vitae" <a href="https://janhavishankar.github.io/_pages/Tripathi_CV.pdf">[PDF]</a>
+title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -8,7 +8,7 @@ redirect_from:
 ---
 {% include base_path %}
 
-Janhavi Shankar Tripathi 
+Janhavi Shankar Tripathi <a href="https://janhavishankar.github.io/_pages/Tripathi_CV.pdf">[CV-PDF]</a>
 ======
 PhD Candidate in Econometrics and Quantitative Economics at Fordham University, NY, USA
 
