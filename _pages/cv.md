@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Curriculum Vitae <a href="https://janhavishankar.github.io/_pages/Tripathi_CV.pdf">[PDF]</a>"
+title: "Curriculum Vitae" <a href="https://janhavishankar.github.io/_pages/Tripathi_CV.pdf">[PDF]</a>
 permalink: /cv/
 author_profile: true
 redirect_from:
