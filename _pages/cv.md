@@ -26,12 +26,12 @@ Bronx, NY 10458 <br>
 Education
 ======
 * PhD in Econometrics and Quantitative Economics, 2018 - present <br>
-  MA in Econometrics and Quantitative Economics, 2018 - 2020 <br>
-  Advanced Certificate, Financial Econometrics and Data Analysis, 2019 - 2020 <br>
   Graduate School of Arts and Sciences, Fordham University, NY, USA <br>
   Fields: International and Financial Economics <br>
   Thesis: Topics on Fractional Trading and Trade-Growth Nexus <br>
   Advisors: Prof. Dominick Salvatore (Co-chair), Prof. Erick W. Rengifo (Co-chair), Prof. Hrishikesh D. Vinod, Prof. Duncan James
+  MA in Econometrics and Quantitative Economics, 2018 - 2020 <br>
+  Advanced Certificate, Financial Econometrics and Data Analysis, 2019 - 2020 <br>
        
 * MSc in Economics, 2014 - 2016 <br>
   School of Economics, Symbiosis International University, Pune, India <br>
