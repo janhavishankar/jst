@@ -8,7 +8,7 @@ redirect_from:
 ---
 {% include base_path %}
 
-Janhavi Shankar Tripathi <a href="https://janhavishankar.github.io/_pages/Tripathi_CV.pdf">mypdf</a>
+Janhavi Shankar Tripathi <a href="https://janhavishankar.github.io/_pages/Tripathi_CV.pdf">[PDF]</a>
 ======
 PhD Candidate in Econometrics and Quantitative Economics at Fordham University, NY, USA
 
