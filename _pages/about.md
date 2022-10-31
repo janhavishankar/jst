@@ -16,7 +16,7 @@ During his PhD studies, Janhavi Shankar has worked as a research intern at the I
 
 He is also interested in Economic and Business consulting. Before joining the PhD program, Janhavi Shankar worked in the business consulting industry for 2+ years. He worked with the Business Performance and Advanced Analytics team at ZS, providing business-relevant analytics and insights to a major US Pharma client.
 
-Janhavi Shankar holds an MSc in Economics from the School of Economics, Symbiosis International University, and a BSc in Physics (Major), Mathematics, and Statistics from Fergusson College, University of Pune.
+Janhavi Shankar holds an MSc in Economics from the School of Economics, Symbiosis International University, and a BSc in Physics (Major), Mathematics and Statistics from Fergusson College, University of Pune.
 
 
 Contact
