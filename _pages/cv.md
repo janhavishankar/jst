@@ -68,7 +68,7 @@ Experience
    Inter- University Centre for Astronomy and Astrophysics (IUCAA), Pune, India <br>
 -- Magnetohydrodynamics and Dynamo Theory
 
-Awards, Honors, Fellowships
+Awards and Honors
 ======
 * Mahony Prowse Scholarship, Fordham University, 2020 <br>
 * Dominick Salvatore Summer Research Fellowship, Fordham University, 2020 <br>
