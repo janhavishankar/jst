@@ -29,7 +29,7 @@ Education
   Graduate School of Arts and Sciences, Fordham University, NY, USA <br>
   Fields: International and Financial Economics <br>
   Thesis: Topics on Fractional Trading and Trade-Growth Nexus <br>
-  Advisors: Prof. Dominick Salvatore (Co-chair), Prof. Erick W. Rengifo (Co-chair), Prof. Hrishikesh D. Vinod, Prof. Duncan James <br>
+  Advisors: Dr. Dominick Salvatore (Co-chair), Dr. Erick W. Rengifo (Co-chair), Dr. Hrishikesh D. Vinod, Dr. Duncan James <br>
   MA in Econometrics and Quantitative Economics, 2018 - 2020 <br>
   Advanced Certificate, Financial Econometrics and Data Analysis, 2019 - 2020
        
