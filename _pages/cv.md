@@ -25,7 +25,7 @@ Bronx, NY 10458 <br>
 
 Education
 ======
-* PhD in Econometrics and Quantitative Economics, 2018 - present <br>
+* PhD in Econometrics and Quantitative Economics, 2018 - 2023 (Expected) <br>
   Graduate School of Arts and Sciences, Fordham University, NY, USA <br>
   Fields: International and Financial Economics <br>
   Thesis: Topics on Fractional Trading and Trade-Growth Nexus <br>
