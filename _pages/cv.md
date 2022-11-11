@@ -46,7 +46,7 @@ Experience
 ======
 * Graduate Research and Teaching Assistant - Department of Economics, Aug 2018 - present <br>
   Graduate School of Arts and Sciences, Fordham University, NY, USA <br>
--- Graduate Research and Teaching Assistant to Prof. Dominick Salvatore
+-- Research and Teaching Assistant to Prof. Dominick Salvatore
 
 * Research Intern (Fund Internship Program) - Financial Supervision and Regulation, Jun 2022 - Aug 2022 <br>
   Monetary and Capital Markets Department, International Monetary Fund, Washington DC, USA <br>
