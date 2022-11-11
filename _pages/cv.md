@@ -16,7 +16,6 @@ Contact
 ======
 Email: [jtripathi@fordham.edu](mailto:jtripathi@fordham.edu) <br> <br>
 Mailing Address: <br>
-Janhavi Shankar Tripathi <br>
 Fordham University <br>
 Department of Economics <br>
 Dealy Hall <br>
