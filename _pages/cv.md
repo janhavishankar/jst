@@ -25,7 +25,7 @@ Bronx, NY 10458 <br>
 Education
 ======
 * PhD in Econometrics and Quantitative Economics, 2018 - 2023 (Expected) <br>
-  Fordham University - Graduate School of Arts and Sciences, NY, USA <br>
+  Graduate School of Arts and Sciences, Fordham University, NY, USA <br>
   Fields: International and Financial Economics <br>
   Thesis: Topics on Fractional Trading and Trade-Growth Nexus <br>
   Advisors: Dr. Dominick Salvatore (Co-chair), Dr. Erick W. Rengifo (Co-chair), Dr. Hrishikesh D. Vinod, Dr. Duncan James <br>
@@ -33,26 +33,26 @@ Education
   Advanced Certificate, Financial Econometrics and Data Analysis, 2019 - 2020
        
 * MSc in Economics, 2014 - 2016 <br>
-  Symbiosis International University - School of Economics, Pune, India <br>
+  School of Economics, Symbiosis International University, Pune, India <br>
   Specializations: International Trade and Finance, Applied Econometrics <br>
   Thesis: Trade-Growth Nexus: A Study of G20 Countries
   
 * BSc in Physics (Major), Mathematics, and Statistics, 2011 - 2014 <br>
-  University of Pune - Fergusson College, Pune, India <br>
+  Fergusson College, University of Pune, Pune, India <br>
   Thesis: Magnetohydrodynamics and Dynamo Theory
 
 Experience
 ======
 * Graduate Research and Teaching Assistant - Department of Economics, Aug 2018 - present <br>
-  Fordham University - Graduate School of Arts and Sciences, NY, USA <br>
+  Graduate School of Arts and Sciences, Fordham University, NY, USA <br>
 -- Research and Teaching Assistant to Prof. Dominick Salvatore
 
 * Research Intern (Fund Internship Program) - Financial Supervision and Regulation, Jun 2022 - Aug 2022 <br>
-  International Monetary Fund - Monetary and Capital Markets Department, Washington DC, USA <br>
+  Monetary and Capital Markets Department, International Monetary Fund, Washington DC, USA <br>
 -- Bond ETF Performance During the COVID-19 Crisis
   
 * Research Intern - Cryptoasset and Blockchain Research, Jun 2020 - Aug 2020 <br>
-  University of Cambridge Judge Business School - Centre for Alternative Finance <br>
+  Centre for Alternative Finance, University of Cambridge Judge Business School <br>
 -- Global Alternative Finance Benchmark Study, 3rd edition of Global Crypto Asset Benchmarking Study
 
 * Associate - Business Performance and Advanced Analytics, Jun 2016 - Jul 2018 <br>
