@@ -98,6 +98,7 @@ Works in Progress
 
 Talks and Presentations
 ======
+- Fordham Fall 2022 Finance Workshop, Nov 2022 <br>
 - NYSEA 2022 Conference, Oct 2022 <br>
 - IMF Monetary & Capital Markets Policy Forum, Aug 2022 <br>
 - FRL 2022 CEMLA Conference on New Advances in International Finance, Apr 2022 <br>
