@@ -88,7 +88,7 @@ Working Papers
 ======
 - **Bond ETF Performance During the Covid-19 Crisis.** (2022). (w/ Jay Surti). IMF Working Paper, forthcoming. <br>
 - **The Impact of Fractional Trading on Order Book Dynamics.** (2022). (w/ Erick W. Rengifo). <br>
-- **Trade-Growth Nexus: A Study of G20 Countries using Simultaneous Equations Model with Dynamic Policy Simulations.** (2021).
+- **Trade-Growth Nexus: A Study of G20 Countries using Simultaneous Equations Model with Dynamic Policy Simulations.** (2021). Submitted, Under Review.
 
 Works in Progress
 ======
