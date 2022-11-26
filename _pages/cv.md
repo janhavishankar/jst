@@ -86,9 +86,9 @@ Publications
 
 Working Papers
 ======
-- **Bond ETF Performance During the Covid-19 Crisis.** (2022). (w/ Jay Surti). Forthcoming, IMF Working Paper. <br>
-- **The Impact of Fractional Trading on Order Book Dynamics.** (2022). (w/ Erick W. Rengifo). <br>
-- **Trade-Growth Nexus: A Study of G20 Countries using Simultaneous Equations Model with Dynamic Policy Simulations.** (2021). Submitted, Under Review.
+- Surti, J., & **Tripathi, J. S.** (2022). **Bond ETF Performance During the Covid-19 Crisis.**. Forthcoming, IMF Working Paper. <br>
+- **Tripathi, J. S.**, & Rengifo, E. W. (2022). **The Impact of Fractional Trading on Order Book Dynamics.** (2022). <br>
+- **Tripathi, J. S.** (2021). **Trade-Growth Nexus: A Study of G20 Countries using Simultaneous Equations Model with Dynamic Policy Simulations.** Submitted, Under Review.
 
 Works in Progress
 ======
