@@ -32,7 +32,7 @@ Works in Progress
 
 Publications
 ======
-- **Tripathi, J. S.**, & Rengifo, E. W. **The Impact of Fractional Trading on Risk Aversion for Non-professional Investors.** Forthcoming, Finance Research Letters. <br>
+- **Tripathi, J. S.**, & Rengifo, E. W. (2023). **The Impact of Fractional Trading on Risk Aversion for Non-professional Investors.** Finance Research Letters, 52, 103547. [[DOI](https://www.sciencedirect.com/science/article/pii/S1544612322007231?via%3Dihub)]. <br>
 - **Tripathi, J. S.** (2016). **Trade-Growth Nexus: A Study of G20 Countries.** IOSR J Econ Finance, 7(3), 60-70.  [[DOI](https://www.iosrjournals.org/iosr-jef/papers/Vol7-Issue3/Version-2/G0703026070.pdf)].
 - Desai, N., & **Tripathi, J. S.** (2016). **Rupee Exchange Rate Dynamic from 1993 to 2011: Study of Factors Driving the Exchange Rate.** IOSR J Econ Finance, 7(2), 19-25.  [[DOI](https://www.iosrjournals.org/iosr-jef/papers/Vol7-Issue2/Version-2/C0702021925.pdf)].
 
