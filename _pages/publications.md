@@ -6,8 +6,8 @@ author_profile: true
 ---
 Job Market Paper
 ======
-- **The Impact of Fractional Trading on Risk Aversion for Non-professional Investors.** (w/ Erick W. Rengifo). <br> 
-Finance Research Letters 52 (2023): 103547. [[DOI](https://www.sciencedirect.com/science/article/pii/S1544612322007231?via%3Dihub)]. [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4208358)]. <br>
+- **The Impact of Fractional Trading on Risk Aversion for Non-professional Investors.** (w/ Erick W. Rengifo). [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4208358)]. <br> 
+Finance Research Letters 52 (2023): 103547. [[DOI](https://www.sciencedirect.com/science/article/pii/S1544612322007231?via%3Dihub)]. <br>
 *Presented at:* NYSEA 2022 Conference, FRL 2022 CEMLA Conference on New Advances in International Finance, Fordham Fall 2021 Finance Workshop, Fordham Spring 2021 Macro/International Finance Workshop <br>
 *Abstract:* We study the impact of fractional trading (FT) on non-professional investors' decision-making under uncertainty. Using the expected utility framework, we show that with the recent easiness to trade in stock markets and with the option to buy or sell a fraction of a share of a stock or ETF (exchange-traded fund), the risk appetite of nonprofessional investors might have gone up, increasing market participation and demand for stocks. Furthermore, we show that this change in the non-professional investor's risk aversion behavior varies by household income levels. Based on constructed probabilities, we estimate that approximately 83 billion dollars have been newly invested in stock market post-FT. Our results suggest that easy access to trade stocks and FT allows households with lower discretionary income a new tool to diversify their portfolio and participate in the stock markets by investing in different stocks and ETFs while at the same time having a significant impact on the stocks' price levels and price dynamics observed in the markets. <br>
 
