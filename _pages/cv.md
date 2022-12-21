@@ -123,7 +123,7 @@ Department of Economics, Fordham University <br>
 - Dr. Erick W. Rengifo (Co-chair & Mentor) <br>
 Professor of Economics <br>
 Department of Economics, Fordham University <br>
-
+Email: [salvatore@fordham.edu](mailto:salvatore@fordham.edu) <br>
 
 - Dr. Jay S. Surti <br>
 Division Chief - Financial Supervision and Regulation <br>
