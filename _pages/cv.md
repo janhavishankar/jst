@@ -43,9 +43,10 @@ Education
 
 Experience
 ======
-* Graduate Research and Teaching Assistant - Department of Economics, Aug 2018 - present <br>
+* Graduate Research and Teaching Assistant to Prof. Dominick Salvatore - Department of Economics, Aug 2018 - present <br>
   Fordham University - Graduate School of Arts and Sciences, NY, USA <br>
--- Research and Teaching Assistant to Prof. Dominick Salvatore
+-- Research Assistant for projects on International Trade and Economic Development <br>
+-- Teaching Assistant for graduate courses in Microeconomic Theory-I, International Trade, and International Finance <br>
 
 * Research Intern (Fund Internship Program) - Financial Supervision and Regulation, Jun 2022 - Aug 2022 <br>
   International Monetary Fund - Monetary and Capital Markets Department, Washington DC, USA <br>
