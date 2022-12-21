@@ -118,7 +118,7 @@ References
 - Dr. Dominick Salvatore (Co-chair & Mentor) <br>
 Distinguished Professor of Economics <br>
 Department of Economics, Fordham University <br>
-Email: [salvatore@fordham.edu](mailto:salvatore@fordham.edu) <br>
+Email: [salvatore@fordham.edu]<a href="mailto:salvatore@fordham.edu"></a>
 
 - Dr. Erick W. Rengifo (Co-chair & Mentor) <br>
 Professor of Economics <br>
