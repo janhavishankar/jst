@@ -115,12 +115,12 @@ Referee services: Finance Research Letters
 
 References
 ======
-- Dr. Dominick Salvatore (Co-chair & Mentor) Email: [salvatore@fordham.edu](mailto:salvatore@fordham.edu) <br>
+- Dr. Dominick Salvatore (Email: [salvatore@fordham.edu](mailto:salvatore@fordham.edu)) [Co-chair & Mentor] <br>
 Distinguished Professor of Economics <br>
 Department of Economics, Fordham University <br>
 
 
-- Dr. Erick W. Rengifo (Co-chair & Mentor) Email: [rengifomina@fordham.edu](mailto:rengifomina@fordham.edu) <br>
+- Dr. Erick W. Rengifo (Email: [rengifomina@fordham.edu](mailto:rengifomina@fordham.edu)) [Co-chair & Mentor] <br>
 Professor of Economics <br>
 Department of Economics, Fordham University <br>
 
