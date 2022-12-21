@@ -43,7 +43,7 @@ Education
 
 Experience
 ======
-* Graduate Research and Teaching Assistant to Prof. Dominick Salvatore - Department of Economics, Aug 2018 - present <br>
+* Graduate Research and Teaching Assistant to Prof. Dominick Salvatore, Aug 2018 - present <br>
   Fordham University - Graduate School of Arts and Sciences, NY, USA <br>
 -- Research Assistant for projects on International Trade and Economic Development <br>
 -- Teaching Assistant for graduate courses in Microeconomic Theory-I, International Trade, and International Finance <br>
