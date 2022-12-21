@@ -115,35 +115,35 @@ Referee services: Finance Research Letters
 
 References
 ======
-- Dr. Dominick Salvatore (Co-chair & Mentor) <br>
+- Dr. Dominick Salvatore (Co-chair & Mentor) Email: [salvatore@fordham.edu](mailto:salvatore@fordham.edu) <br>
 Distinguished Professor of Economics <br>
 Department of Economics, Fordham University <br>
-Email: [salvatore@fordham.edu](mailto:salvatore@fordham.edu)
 
-- Dr. Erick W. Rengifo (Co-chair & Mentor) <br>
+
+- Dr. Erick W. Rengifo (Co-chair & Mentor) Email: [rengifomina@fordham.edu](mailto:rengifomina@fordham.edu) <br>
 Professor of Economics <br>
 Department of Economics, Fordham University <br>
-Email: [rengifomina@fordham.edu](mailto:rengifomina@fordham.edu)
 
-- Dr. Jay S. Surti <br>
+
+- Dr. Jay S. Surti Email: [JSurti@imf.org](mailto:JSurti@imf.org) <br>
 Division Chief - Financial Supervision and Regulation <br>
 Monetary & Capital Markets Department, International Monetary Fund <br>
-Email: [JSurti@imf.org](mailto:JSurti@imf.org)
 
-- Dr. Hrishikesh D. Vinod <br>
+
+- Dr. Hrishikesh D. Vinod Email: [vinod@fordham.edu](mailto:vinod@fordham.edu) <br>
 Professor of Economics <br>
 Department of Economics, Fordham University <br>
-Email: [vinod@fordham.edu](mailto:vinod@fordham.edu)
 
-- Dr. Duncan James <br>
+
+- Dr. Duncan James Email: [dujames@fordham.edu](mailto:dujames@fordham.edu) <br>
 Professor of Economics <br>
 Department of Economics, Fordham University <br>
-Email: [dujames@fordham.edu](mailto:dujames@fordham.edu)
 
-- Dr. Johanna L. Francis <br>
+
+- Dr. Johanna L. Francis Email: [ajofrancis@fordham.edu](mailto:ajofrancis@fordham.edu) <br>
 Associate Professor of Economics & Department Chair <br>
 Department of Economics, Fordham University <br>
-Email: [ajofrancis@fordham.edu](mailto:ajofrancis@fordham.edu)
+
 
 
 
