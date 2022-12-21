@@ -125,22 +125,22 @@ Professor of Economics <br>
 Department of Economics, Fordham University <br>
 
 
-- Dr. Jay S. Surti Email: [JSurti@imf.org](mailto:JSurti@imf.org) <br>
+- Dr. Jay S. Surti (Email: [JSurti@imf.org](mailto:JSurti@imf.org)) <br>
 Division Chief - Financial Supervision and Regulation <br>
 Monetary & Capital Markets Department, International Monetary Fund <br>
 
 
-- Dr. Hrishikesh D. Vinod Email: [vinod@fordham.edu](mailto:vinod@fordham.edu) <br>
+- Dr. Hrishikesh D. Vinod (Email: [vinod@fordham.edu](mailto:vinod@fordham.edu)) <br>
 Professor of Economics <br>
 Department of Economics, Fordham University <br>
 
 
-- Dr. Duncan James Email: [dujames@fordham.edu](mailto:dujames@fordham.edu) <br>
+- Dr. Duncan James (Email: [dujames@fordham.edu](mailto:dujames@fordham.edu)) <br>
 Professor of Economics <br>
 Department of Economics, Fordham University <br>
 
 
-- Dr. Johanna L. Francis Email: [ajofrancis@fordham.edu](mailto:ajofrancis@fordham.edu) <br>
+- Dr. Johanna L. Francis (Email: [ajofrancis@fordham.edu](mailto:ajofrancis@fordham.edu)) <br>
 Associate Professor of Economics & Department Chair <br>
 Department of Economics, Fordham University <br>
 
