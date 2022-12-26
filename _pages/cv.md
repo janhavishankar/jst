@@ -70,10 +70,11 @@ Experience
 
 Awards and Honors
 ======
+* GSAS Teaching Associateship, Fordham University, 2022 - present <br>
 * Mahony Prowse Scholarship, Fordham University, 2020 <br>
 * Dominick Salvatore Summer Research Fellowship, Fordham University, 2020 <br>
 * Omicron Delta Epsilon (ODE) International Honor Society for Economics Membership, Fordham University, 2019 <br>
-* GSAS Graduate Research Assistantship, Fordham University, 2018 - present <br>
+* GSAS Graduate Assistantship, Fordham University, 2018 - 2022 <br>
 * Outstanding achievement award for work on Multi-channel Marketing Analytics (Non-personal Promotion Digital Tactics), ZS-BMS, 2017 <br>
 * OPSCAR award for overall excellence in Business Operations and contributions to the Global Analytics Team, ZS, 2017 <br>
 * Selected among 55 students across India for National Initiative on Undergraduate Sciences (NIUS) - Physics camp 9.1, HBCSE-TIFR, 2012 <br>
