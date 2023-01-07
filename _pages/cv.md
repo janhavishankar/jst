@@ -38,7 +38,7 @@ Education
   Thesis: Trade-Growth Nexus: A Study of G20 Countries
   
 * BSc in Physics (Major), Mathematics, and Statistics, 2011 - 2014 <br>
-  Fergusson College - University of Pune, Pune, India <br>
+  Fergusson College, University of Pune, Pune, India <br>
   Thesis: Magnetohydrodynamics and Dynamo Theory
 
 Experience
