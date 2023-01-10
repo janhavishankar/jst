@@ -22,7 +22,7 @@ Janhavi Shankar holds an MSc in Economics from the Symbiosis School of Economics
 Contact
 ======
 Email: [jtripathi@fordham.edu](mailto:jtripathi@fordham.edu) <br>
-Ph: +1 (929)-575-0661 <br> <br>
+Phone: +1 (929)-575-0661 <br> <br>
 Mailing Address: <br>
 Fordham University <br>
 Department of Economics <br>
