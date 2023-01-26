@@ -95,9 +95,9 @@ Working Papers
 
 Works in Progress
 ======
-- **The Impact of Fractional Trading on Risk Aversion and Wealth Allocation Behavior for Non-professional Investors under the Prospect Theory Framework.** (w/ Erick W. Rengifo). <br>
+- **Relationship Between Trade and Growth for Developing Countries at Different Levels of Income.** (w/ Dominick Salvatore). <br>
 - **Exchange Traded Funds, Market Liquidity, and Financial Stability.** (w/ Jay Surti). <br>
-- **Relationship Between Trade and Growth for Developing Countries at Different Levels of Income.** (w/ Dominick Salvatore).
+- **The Impact of Fractional Trading on Risk Aversion and Wealth Allocation Behavior for Non-professional Investors under the Prospect Theory Framework.** (w/ Erick W. Rengifo).
 
 Talks and Presentations
 ======
