@@ -89,9 +89,9 @@ Publications
 
 Working Papers
 ======
-- **Relationship Between Trade and Growth for Developing Countries at Different Levels of Income.** (2023). (w/ Dominick Salvatore). <br>
+- **Relationship Between Trade and Growth for Developing Countries at Different Levels of Income.** (2023). (w/ Dominick Salvatore). Submitted, Under Review. <br>
 - **Bond ETF Performance During the Covid-19 Crisis.** (2022). (w/ Jay Surti). IMF Working Paper, forthcoming. <br>
-- **The Impact of Fractional Trading on Order Book Dynamics.** (2022). (w/ Erick W. Rengifo). <br>
+- **The Impact of Fractional Trading on Order Book Dynamics.** (2022). (w/ Erick W. Rengifo). Submitted, Under Review. <br>
 - **Trade-Growth Nexus: A Study of G20 Countries using Simultaneous Equations Model with Dynamic Policy Simulations.** (2021). Submitted, Under Review.
 
 Works in Progress
