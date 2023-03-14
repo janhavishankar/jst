@@ -54,7 +54,7 @@ Experience
 -- Bond ETF Performance During the COVID-19 Crisis
   
 * Research Intern - Cryptoasset and Blockchain Research, Jun 2020 - Aug 2020 <br>
-  University of Cambridge Judge Business School - Centre for Alternative Finance <br>
+  University of Cambridge Judge Business School - Centre for Alternative Finance, Cambridge, UK (Remote) <br>
 -- Global Alternative Finance Benchmark Study, 3rd edition of Global Crypto Asset Benchmarking Study
 
 * Associate - Business Performance and Advanced Analytics, Jun 2016 - Jul 2018 <br>
