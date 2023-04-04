@@ -49,23 +49,23 @@ Experience
 -- Research Assistant for projects on International Trade and Economic Development <br>
 -- Teaching Assistant for graduate courses in Microeconomic Theory-I, International Trade, and International Finance <br>
 
-* Research Intern (Fund Internship Program), Financial Supervision and Regulation, Jun 2022 - Aug 2022 <br>
+* Research Intern (Fund Internship Program) - Financial Supervision and Regulation, Jun 2022 - Aug 2022 <br>
   International Monetary Fund - Monetary and Capital Markets Department, Washington DC, USA <br>
 -- Bond ETF Performance During the COVID-19 Crisis
   
-* Research Intern, Cryptoasset and Blockchain Research, Jun 2020 - Aug 2020 <br>
+* Research Intern - Cryptoasset and Blockchain Research, Jun 2020 - Aug 2020 <br>
   University of Cambridge Judge Business School - Centre for Alternative Finance, Cambridge, UK (Remote) <br>
 -- Global Alternative Finance Benchmark Study, 3rd edition of Global Crypto Asset Benchmarking Study
 
-* Associate, Business Performance and Advanced Analytics, Jun 2016 - Jul 2018 <br>
+* Associate - Business Performance and Advanced Analytics, Jun 2016 - Jul 2018 <br>
   ZS, Pune, India <br>
 -- Multi-channel Marketing (MCM), Key Drivers Analytics (KDA), Business Performance
  
-* Research Intern, Data Analytics, Apr 2015 - Jun 2015 <br>
+* Research Intern - Data Analytics, Apr 2015 - Jun 2015 <br>
   Symbiosis Centre for Management and Human Resource Development (SCMHRD), Pune, India <br>
 -- Assessing retailers' fruits and vegetables procurement pattern in Pune city and developing an efficient framework for collection of fruits and vegetables from farmers and supplying them to the consumers
  
-* Project Student, Galactic Dynamos, Dec 2012 - Jan 2014 <br>
+* Project Student - Galactic Dynamos, Dec 2012 - Jan 2014 <br>
    Inter- University Centre for Astronomy and Astrophysics (IUCAA), Pune, India <br>
 -- Magnetohydrodynamics and Dynamo Theory
 
