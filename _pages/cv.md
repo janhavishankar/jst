@@ -71,7 +71,8 @@ Experience
 
 Awards and Honors
 ======
-* GSAS Teaching Associateship, Fordham University, 2022 - present <br>
+* Graduate Student Support Grant, Fordham University, 2023
+* GSAS Teaching Associateship, Fordham University, 2022 - 2023 <br>
 * Mahony Prowse Scholarship, Fordham University, 2020 <br>
 * Dominick Salvatore Summer Research Fellowship, Fordham University, 2020 <br>
 * Omicron Delta Epsilon (ODE) International Honor Society for Economics Membership, Fordham University, 2019 <br>
