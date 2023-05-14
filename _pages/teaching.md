@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Curriculum Vitae"
+title: "Teaching"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -8,7 +8,9 @@ redirect_from:
 ---
 {% include base_path %}
 
-Janhavi Shankar Tripathi <!--<a href="https://janhavishankar.github.io/_pages/Tripathi_CV.pdf">[CV-PDF]</a>-->
+<!--
+
+Janhavi Shankar Tripathi <!--<a href="https://janhavishankar.github.io/_pages/Tripathi_CV.pdf">[CV-PDF]</a>
 ======
 PhD Candidate in Econometrics and Quantitative Economics at Fordham University, NY, USA
 
@@ -153,7 +155,7 @@ Associate Professor of Economics & Department Chair <br>
 Department of Economics, Fordham University <br>
 Email: [ajofrancis@fordham.edu](mailto:ajofrancis@fordham.edu) <br>
 
-
+-->
 <!-- Email: [salvatore@fordham.edu](mailto:salvatore@fordham.edu)
 Email: [rengifomina@fordham.edu](mailto:rengifomina@fordham.edu)
 Email: [JSurti@imf.org](mailto:JSurti@imf.org)
@@ -185,7 +187,7 @@ Talks and Presentations
 - Fordham Spring 2021 Macro/International Finance Workshop, The Impact of Fractional Trading on Risk Aversion for Non-professional Investors -->
 
 
-<!-- 
+<!--
 * Summer 2015: Research Assistant
   * Github University
   * Duties included: Tagging issues
