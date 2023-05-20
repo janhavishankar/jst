@@ -12,9 +12,11 @@ This is a description of a teaching experience. You can use markdown like any ot
 
 Heading 1
 ======
-abcd
+abcd 
+
 Heading 2
 ======
 efgh
+
 Heading 3
 ======
