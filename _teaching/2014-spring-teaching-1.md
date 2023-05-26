@@ -10,7 +10,7 @@ location: ""
 
 At Fordham
 ======
-Teaching Assistant to Prof Dominick Salvatore for graduate courses in-
+Teaching Assistant to Prof Dominick Salvatore for graduate courses in- <br>
 -- Microeconomics - I 
 -- International Trade
 -- International Finance
