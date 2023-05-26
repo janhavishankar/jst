@@ -8,8 +8,6 @@ redirect_from:
 ---
 {% include base_path %}
 
-Talks and Presentations
-======
 - World Finance Conference, Aug 2023 (scheduled) <br>
 - SQA-CQA 2023 Trading Day, Jun 2023 (scheduled) <br>
 - St. Bonaventure University School of Business, Mar 2023 <br>
