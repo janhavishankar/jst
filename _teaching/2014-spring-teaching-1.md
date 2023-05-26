@@ -1,22 +1,17 @@
 ---
-title: "Teaching experience 1"
+title: "Teaching"
 collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+type: "Teaching"
+permalink: /teaching/
+venue: ""
+date:
+location: ""
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
+At Fordham
 ======
+Teaching Assistant to Prof Dominick Salvatore for graduate courses in-
+-- Microeconomics - I 
+-- International Trade
+-- International Finance
 
-
-Heading 2
-======
-
-
-Heading 3
-======
