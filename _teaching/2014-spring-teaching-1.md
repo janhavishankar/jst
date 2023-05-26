@@ -10,9 +10,9 @@ location: "City, Country"
 
 This is a description of a teaching experience. You can use markdown like any other post.
 
-At Fordham
+Heading 1
 ======
--- Microeconomics
+
 
 Heading 2
 ======
