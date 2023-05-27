@@ -47,7 +47,7 @@ Experience
 * Graduate Research and Teaching Assistant to Prof. Dominick Salvatore, Aug 2018 - present <br>
   Fordham University - Graduate School of Arts and Sciences, NY, USA <br>
 -- Research Assistant for projects on International Trade and Economic Development <br>
--- Teaching Assistant for graduate courses in Microeconomic Theory-I, International Trade, and International Finance <br>
+-- Teaching Assistant for graduate courses in Microeconomic Theory I, International Trade, and International Finance <br>
 
 * Research Intern (Fund Internship Program) - Financial Supervision and Regulation, Jun 2022 - Aug 2022 <br>
   International Monetary Fund - Monetary and Capital Markets Department, Washington DC, USA <br>
@@ -101,7 +101,7 @@ Works in Progress
 - **Exchange Traded Funds, Market Liquidity, and Financial Stability.** (w/ Jay Surti). <br>
 - **The Impact of Fractional Trading on Risk Aversion and Wealth Allocation Behavior for Non-professional Investors under the Prospect Theory Framework.** (w/ Erick W. Rengifo).
 
-Presentations
+Talks and Presentations
 ======
 - World Finance Conference, Aug 2023 (scheduled) <br>
 - SQA-CQA 2023 Trading Day, Jun 2023 (scheduled) <br>
