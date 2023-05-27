@@ -101,7 +101,7 @@ Works in Progress
 - **Exchange Traded Funds, Market Liquidity, and Financial Stability.** (w/ Jay Surti). <br>
 - **The Impact of Fractional Trading on Risk Aversion and Wealth Allocation Behavior for Non-professional Investors under the Prospect Theory Framework.** (w/ Erick W. Rengifo).
 
-Talks and Presentations
+Presentations
 ======
 - World Finance Conference, Aug 2023 (scheduled) <br>
 - SQA-CQA 2023 Trading Day, Jun 2023 (scheduled) <br>
