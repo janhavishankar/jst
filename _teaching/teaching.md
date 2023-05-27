@@ -8,11 +8,6 @@ redirect_from:
 ---
 {% include base_path %}
 
-At St. Bonaventure University
-======
--- Principles of Macroeconomics (Fall 2023) <br>
--- Introduction to Statistics (Fall 2023)
-
 At Fordham University
 ======
 * Teaching Assistant to Prof. Dominick Salvatore for graduate courses in- <br>
