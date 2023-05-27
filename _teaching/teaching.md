@@ -10,8 +10,8 @@ redirect_from:
 
 At St. Bonaventure University
 ======
--- Principles of Macroeconomics <br>
--- Introduction to Statistics
+-- Principles of Macroeconomics (Fall 2023) <br>
+-- Introduction to Statistics (Fall 2023)
 
 At Fordham University
 ======
