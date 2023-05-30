@@ -16,16 +16,13 @@ Submitted, Under Review. [[SSRN_WP](https://papers.ssrn.com/sol3/papers.cfm?abst
 
 Working Papers
 ======
-- **Relationship Between Trade and Growth for Developing Countries at Different Levels of Income.** (2023). (w/ Dominick Salvatore). <br>
-Submitted, Under Review. <br>
+- **Relationship Between Trade and Growth for Developing Countries at Different Levels of Income.** (2023). (w/ Dominick Salvatore). Submitted, Under Review. <br>
 *Abstract:* We explore the relationship between trade openness and economic growth for developing countries at different income levels using a simultaneous equations model from 2004-2019. The model is estimated using a full information maximum likelihood method for the developing high-income (HI), upper-middle-income (UMI), lower-middle-income (LMI), and low-income (LI) countries. We find that for developing HI, UMI, and LI countries, trade positively impacts growth which varies significantly in magnitude. Trade contributes significantly higher growth for developing HI countries when compared to developing UMI and LI countries. The results suggest that trade is positively related to growth, but it works as a handmaiden rather than a growth engine. On the other hand, for developing LMI countries, we find that trade negatively impacts growth. For developing LMI countries, trade contributes significantly to capital formation for these countries, leading to growth. Further, we also perform dynamic policy simulations based on the most advocated policies like increasing growth of exports, foreign capital inflows, curbing domestic inflation, etc. We find that these policies are not very effective in increasing the growth rate of the real per capita income. <br>
 
-- **Bond ETF Performance During the COVID-19 Crisis.** (2022). (w/ Jay Surti). <br>
- IMF Working Paper, forthcoming. <br>
+- **Bond ETF Performance During the COVID-19 Crisis.** (2022). (w/ Jay Surti). IMF Working Paper, forthcoming. <br>
 *Abstract:* Arbitrage activity by large banks (called APs) is vital to ensuring efficiency and stability of ETF performance. Exploiting the availability of data for the period of the Covid-19 associated market instability, we analyze and contrast APs’ arbitrage activity in normal versus stressed market conditions for a representative database of passive, fixed income ETFs. We find that APs trade ETF shares and bonds in a manner consistent with the arbitrage incentives predicted by theory, in normal times, for corporate bond ETFs, but not for broad market ETFs. For corporate bond ETFs, these incentives were dented significantly during March-April 2020 resulting in persistent, larger discounts-to-NAV of ETF share prices until the Fed’s policy interventions turned the tide. APs’ incentives to manage bond inflow shocks during this period constitute a key factor generating countervailing incentives, interacting with the liquidity of corporate bond ETFs’ asset portfolios. Our results add to emerging empirical evidence that APs do not trade at a scale necessary to quickly close out price-NAV differentials and also appear to trade in a direction that exacerbates share price discounts-to-NAV during times of stress. We find no significant differences between ETFs that are primarily held by institutional versus retail investors. <br>
 
-- **Trade-Growth Nexus: A Study of G20 Countries using Simultaneous Equations Model with Dynamic Policy Simulations.** (2021). <br>
-Submitted, Under Review. <br>
+- **Trade-Growth Nexus: A Study of G20 Countries using Simultaneous Equations Model with Dynamic Policy Simulations.** (2021). Submitted, Under Review. <br>
 *Abstract:* This paper studies the relationship between trade openness and economic growth for G20 countries using a simultaneous equations model from 2004 to 2019. The model is estimated using a full information maximum likelihood method for the G20 countries. Further, the analysis is also done separately for Advanced and Developing G20 countries. The results suggest that trade is positively related to growth, but it works as a handmaiden rather than a growth engine. Trade contributes significantly higher growth for advanced G20 countries when compared to developing G20 countries. Further, we also perform dynamic policy simulations based on the most advocated policies like increasing growth of exports, foreign capital inflows, curbing domestic inflation, etc. We find that these policies are not very effective in increasing the growth rate of the real per capita income. <br>
 
 Works in Progress
@@ -37,7 +34,7 @@ Works in Progress
 
 Publications
 ======
-- **Tripathi, J. S.**, & Rengifo, E. W. (2023). **The Impact of Fractional Trading on Risk Aversion for Non-professional Investors.** Finance Research Letters, 52, 103547. [[DOI](https://www.sciencedirect.com/science/article/pii/S1544612322007231?via%3Dihub)]. <br>
+- **Tripathi, J. S.**, & Rengifo, E. W. (2023). **The Impact of Fractional Trading on Risk Aversion for Non-professional Investors.** Finance Research Letters, 52, 103547. [[DOI](https://www.sciencedirect.com/science/article/pii/S1544612322007231?via%3Dihub)]. [[SSRN_WP](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4208358)]. <br>
 - **Tripathi, J. S.** (2016). **Trade-Growth Nexus: A Study of G20 Countries.** IOSR J Econ Finance, 7(3), 60-70.  [[DOI](https://www.iosrjournals.org/iosr-jef/papers/Vol7-Issue3/Version-2/G0703026070.pdf)].
 - Desai, N., & **Tripathi, J. S.** (2016). **Rupee Exchange Rate Dynamic from 1993 to 2011: Study of Factors Driving the Exchange Rate.** IOSR J Econ Finance, 7(2), 19-25.  [[DOI](https://www.iosrjournals.org/iosr-jef/papers/Vol7-Issue2/Version-2/C0702021925.pdf)].
 
