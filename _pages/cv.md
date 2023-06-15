@@ -14,8 +14,7 @@ PhD Candidate in Econometrics and Quantitative Economics at Fordham University, 
 
 Contact
 ======
-Email: [jtripathi@fordham.edu](mailto:jtripathi@fordham.edu) <br>
-Phone: +1 (929) 575-0661 <br> <br>
+Email: [jtripathi@fordham.edu](mailto:jtripathi@fordham.edu) <br> <br>
 Mailing Address: <br>
 Fordham University <br>
 Department of Economics <br>
