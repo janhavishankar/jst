@@ -28,8 +28,9 @@ Works in Progress
 - **Exchange Traded Funds, Market Liquidity, and Financial Stability.** (w/ Jay Surti). <br>
 - **The Impact of Fractional Trading on Risk Aversion and Wealth Allocation Behavior for Non-professional Investors under the Prospect Theory Framework.** (w/ Erick W. Rengifo).
 
-Other Selected Projects
+Theses and Other Selected Projects
 ======
+- Topics on Fractional Trading and Trade-Growth Nexus, 2023 [PhD Dissertation]
 - Predicting COVID-19 Cases Using Google Community Mobility Report, 2020
 - Trade-Growth Nexus: A Study of G20 Countries, 2016 [MSc Thesis]
 - Performance Analysis and Estimation of Production Function for Indian Automobile Sector, 2015
