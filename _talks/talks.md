@@ -28,7 +28,7 @@ Discussant, Session Chair, and Referee Activities
 -- Discussant for “Can fake news impact the stock market? Evidence from politicians’ statements” by Rodrigo de Oliveria Leite, Matheus Moura, & Patrick Behr at the FRL 2022 CEMLA Conference on New Advances in International Finance, Apr 2022 <br>
 
 *Session Chair <br>
--- Chair for the session on "Market Microstructure" at the World Finance Conference 2023, Aug 2023 (scheduled) <br>
+-- Chair for "Market Microstructure" session at the World Finance Conference 2023, Aug 2023 (scheduled) <br>
 
 * Referee Services <br>
 -- Finance Research Letters <br>
