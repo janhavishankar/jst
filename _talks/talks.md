@@ -25,7 +25,7 @@ Presentations
 
 Discussant, Session Chair, and Referee Activities
 ======
-* Discussions <br>
+* Discussant <br>
 -- "Forecasting Stock Market Liquidity: A LSTM-Based Approach" by Byomkesh Debata, Syed Ahzam Tariq, Gaurav G Petwe, & Asis Kumar Sahu at the World Finance Conference 2023, Aug 2023 (scheduled) <br>
 -- “Adding Bitcoin to a Portfolio: A Cautionary Tale” by Joan Nix & Bruce McNevin at the NYSEA 2022 Conference, Oct 2022 <br>
 -- “Can fake news impact the stock market? Evidence from politicians’ statements” by Rodrigo de Oliveria Leite, Matheus Moura, & Patrick Behr at the FRL 2022 CEMLA Conference on New Advances in International Finance, Apr 2022 <br>
