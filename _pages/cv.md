@@ -103,7 +103,7 @@ Works in Progress
 Talks and Presentations
 ======
 * Conferences <br>
--- World Finance Conference, Aug 2023 (scheduled) <br>
+-- World Finance Conference 2023, Aug 2023 (scheduled) <br>
 -- SQA-CQA 2023 Trading Day Conference, Jun 2023 <br>
 -- NYSEA 2022 Conference, Oct 2022 <br>
 -- FRL 2022 CEMLA Conference on New Advances in International Finance, Apr 2022 <br>
