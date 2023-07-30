@@ -26,15 +26,15 @@ Works in Progress
 ======
 - **The Impact of Earnings Announcements Before and After the market hours on Asset Price Dynamics.** (w/ Erick W. Rengifo). <br>
 - **Exchange Traded Funds, Market Liquidity, and Financial Stability.** (w/ Jay Surti). <br>
-- **The Impact of Fractional Trading on Risk Aversion and Wealth Allocation Behavior for Non-professional Investors under the Prospect Theory Framework.** (w/ Erick W. Rengifo).
+- **The Impact of Fractional Trading on Risk Aversion and Wealth Allocation Behavior for Non-professional Investors under the Prospect Theory Framework.** (w/ Erick W. Rengifo). <br>
 
 Theses and Other Selected Projects
 ======
-- Topics on Fractional Trading and Trade-Growth Nexus, 2023 [PhD Dissertation]
-- Predicting COVID-19 Cases Using Google Community Mobility Report, 2020
-- Trade-Growth Nexus: A Study of G20 Countries, 2016 [MSc Thesis]
-- Performance Analysis and Estimation of Production Function for Indian Automobile Sector, 2015
-- Magnetohydrodynamics and Dynamo Theory, 2014 [BSc Thesis]
+- Topics on Fractional Trading and Trade-Growth Nexus, 2023 [PhD Dissertation] <br>
+- Predicting COVID-19 Cases Using Google Community Mobility Report, 2020 <br>
+- Trade-Growth Nexus: A Study of G20 Countries, 2016 [MSc Thesis] <br>
+- Performance Analysis and Estimation of Production Function for Indian Automobile Sector, 2015 <br>
+- Magnetohydrodynamics and Dynamo Theory, 2014 [BSc Thesis] <br>
 
 
 <!--
