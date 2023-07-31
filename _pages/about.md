@@ -8,13 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-Janhavi Shankar is a PhD Candidate in Econometrics and Quantitative Economics at Fordham University, specializing in International and Financial Economics. At Fordham, he is advised by Prof. Erick W. Rengifo and Prof. Dominick Salvatore.
+Janhavi Shankar is a PhD Candidate in Econometrics and Quantitative Economics at Fordham University. At Fordham, he is advised by Prof. Erick W. Rengifo and Prof. Dominick Salvatore.
 
-His research interests are in Financial Economics, International Finance, Behavioral Finance, Financial Markets, FinTech, Empirical Asset Pricing, Applied Econometrics, and Economic Development.
+His research interests are in Financial Economics, International Economics, Applied Econometrics, and Economic Development.
 
-During his PhD studies, Janhavi Shankar worked as a research intern at the International Monetary Fund - Monetary and Capital Markets Department in Summer 2022, and the University of Cambridge Judge Business School - Center for Alternative Finance in Summer 2020.
+During his PhD studies, Janhavi Shankar was a research intern at the International Monetary Fund - Monetary and Capital Markets Department in Summer 2022, and the University of Cambridge Judge Business School - Center for Alternative Finance in Summer 2020.
 
-He is also interested in Economic and Business consulting. Before joining the PhD program, Janhavi Shankar worked in the business consulting for 2+ years. He worked with the Business Performance and Advanced Analytics team at ZS, providing business-relevant analytics and insights to a major US Pharma client.
+He is also interested in Economic and Business consulting. Before joining the PhD program, Janhavi Shankar worked in business consulting for 2+ years. He worked with the Business Performance and Advanced Analytics team at ZS, providing business-relevant analytics and insights to a major US Pharma client.
 
 Janhavi Shankar holds an MSc in Economics from the Symbiosis School of Economics, and a BSc in Physics (Major), Mathematics, and Statistics from Fergusson College, University of Pune.
 
