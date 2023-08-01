@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Janhavi Shankar Tripathi"
 title_separator          : "-"
-name                     : &name "Janhavi Shankar Tripathi, PhD"
+name                     : &name "Janhavi Shankar Tripathi"
 description              : &description "PhD Candidate in Econometrics and Quantitative Economics at Fordham University"
 url                      : https://janhavishankar.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Janhavi Shankar Tripathi"
+  name             : "Janhavi Shankar Tripathi, PhD"
   avatar           : "jst.png"
   bio              : "PhD Candidate in Econometrics and Quantitative Economics at Fordham University" 
   location         : "New York, NY"
