@@ -10,7 +10,7 @@ redirect_from:
 
 Janhavi Shankar Tripathi, PhD <!--<a href="https://janhavishankar.github.io/_pages/Tripathi_CV.pdf">[CV-PDF]</a>-->
 ======
-PhD Candidate in Econometrics and Quantitative Economics at Fordham University, NY, USA
+<!--PhD Candidate in Econometrics and Quantitative Economics at Fordham University, NY, USA -->
 
 Contact
 ======
