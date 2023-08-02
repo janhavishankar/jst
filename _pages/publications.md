@@ -5,7 +5,6 @@ permalink: /publications/
 author_profile: true
 ---
 
-
 Publications
 ======
 - **Tripathi, J. S.** (2023). **Trade-Growth Nexus: A Study of G20 Countries using Simultaneous Equations Model with Dynamic Policy Simulations.** Journal of Policy Modeling, forthcoming. <br>
