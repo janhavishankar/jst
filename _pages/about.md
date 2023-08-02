@@ -14,7 +14,7 @@ His research interests are in Financial Economics, International Economics, Appl
 
 During his PhD studies, Janhavi Shankar was a research intern at the International Monetary Fund - Monetary and Capital Markets Department in Summer 2022, and the University of Cambridge Judge Business School - Center for Alternative Finance in Summer 2020.
 
-He is also interested in Economic and Business consulting. Before joining the PhD program, Janhavi Shankar worked in business consulting for 2+ years. He worked with the Business Performance and Advanced Analytics team at ZS, providing business-relevant analytics and insights to a major US Pharma client.
+He is also interested in Economic and Business consulting. Before PhD, Janhavi Shankar worked in business consulting for 2+ years. He worked with the Business Performance and Advanced Analytics team at ZS, providing business-relevant analytics and insights to a major US Pharma client.
 
 Janhavi Shankar holds an MSc in Economics from the Symbiosis School of Economics, and a BSc in Physics (Major), Mathematics, and Statistics from Fergusson College, University of Pune.
 
