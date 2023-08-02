@@ -19,7 +19,7 @@ He is also interested in Economic and Business consulting. Before PhD, Janhavi S
 Janhavi Shankar holds an MSc in Economics from the Symbiosis School of Economics, and a BSc in Physics (Major), Mathematics, and Statistics from Fergusson College, University of Pune.
 
 
-Contact
+Contact Information
 ======
 Email: [jtripathi@fordham.edu](mailto:jtripathi@fordham.edu) <br> <br>
 Mailing Address: <br>
