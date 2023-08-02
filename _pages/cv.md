@@ -12,7 +12,7 @@ Janhavi Shankar Tripathi, PhD <!--<a href="https://janhavishankar.github.io/_pag
 ======
 <!--PhD Candidate in Econometrics and Quantitative Economics at Fordham University, NY, USA-->
 
-Contact
+Contact Information
 ======
 Email: [jtripathi@fordham.edu](mailto:jtripathi@fordham.edu) <br> <br>
 Mailing Address: <br>
