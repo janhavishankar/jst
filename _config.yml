@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Janhavi Shankar Tripathi, PhD"
+title                    : "Janhavi Shankar Tripathi"
 title_separator          : "-"
-name                     : &name "Janhavi Shankar Tripathi, PhD"
+name                     : &name "Janhavi Shankar Tripathi"
 description              : &description "Economist"
 url                      : https://janhavishankar.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Janhavi Shankar Tripathi, PhD"
+  name             : "Janhavi Shankar Tripathi"
   avatar           : "jst.png"
   bio              : "Economist" 
   location         : "New York, NY"
