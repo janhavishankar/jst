@@ -31,11 +31,11 @@ Works in Progress
 
 Theses and Other Selected Projects
 ======
-- Topics on Fractional Trading and Trade-Growth Nexus, 2023 [PhD_Dissertation]. <br>
-- Predicting COVID-19 Cases Using Google Community Mobility Report, 2020. <br>
-- Trade-Growth Nexus: A Study of G20 Countries, 2016 [[MSc_Thesis](https://www.researchgate.net/publication/335527481_TRADE-GROWTH_NEXUS_A_STUDY_OF_G-20_COUNTRIES?channel=doi&linkId=5d6b4c6a299bf1808d5cc85e&showFulltext=true)]. <br>
-- Performance Analysis and Estimation of Production Function for Indian Automobile Sector, 2015. <br>
-- Magnetohydrodynamics and Dynamo Theory, 2014 [[BSc_Thesis](https://www.researchgate.net/publication/335527291_Magnetohydrodynamics_and_Dynamo_Theory?channel=doi&linkId=5d6b4b9d92851c8538839031&showFulltext=true)]. <br>
+- Topics on Fractional Trading and Trade-Growth Nexus, 2023 [PhD Dissertation] <br>
+- Predicting COVID-19 Cases Using Google Community Mobility Report, 2020 <br>
+- Trade-Growth Nexus: A Study of G20 Countries, 2016 [MSc Thesis] <br>
+- Performance Analysis and Estimation of Production Function for Indian Automobile Sector, 2015 <br>
+- Magnetohydrodynamics and Dynamo Theory, 2014 [[BSc Thesis] <br>
 
 
 <!--
