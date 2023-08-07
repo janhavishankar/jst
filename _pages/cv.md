@@ -12,7 +12,7 @@ Janhavi Shankar Tripathi <!--<a href="https://janhavishankar.github.io/_pages/Tr
 ======
 Economist <br>
 
-Contact Information
+Contact
 ======
 Email: [jtripathi@fordham.edu](mailto:jtripathi@fordham.edu) <br> <br>
 Mailing Address: <br>
