@@ -10,7 +10,7 @@ redirect_from:
 
 Janhavi Shankar Tripathi <!--<a href="https://janhavishankar.github.io/_pages/Tripathi_CV.pdf">[CV-PDF]</a>-->
 ======
-Economist <br>
+
 
 Contact
 ======
