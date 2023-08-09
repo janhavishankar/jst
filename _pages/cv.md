@@ -8,7 +8,7 @@ redirect_from:
 ---
 {% include base_path %}
 
-Dr Janhavi Shankar Tripathi <!--<a href="https://janhavishankar.github.io/_pages/Tripathi_CV.pdf">[CV-PDF]</a>-->
+Dr. Janhavi Shankar Tripathi <!--<a href="https://janhavishankar.github.io/_pages/Tripathi_CV.pdf">[CV-PDF]</a>-->
 ======
 
 
