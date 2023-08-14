@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Janhavi Shankar Tripathi"
 title_separator          : "-"
 name                     : &name "Janhavi Shankar Tripathi"
-description              : &description "Economist"
+description              : &description "Assistant Professor of Economics at St. Bonaventure University School of Business"
 url                      : https://janhavishankar.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "janhavishankar/janhavishankar.github.io"
@@ -40,7 +40,7 @@ staticman:
   path                   : "_data/comments/{options.slug}"
   requiredFields         : ['name', 'email', 'message']
   transforms:
-    email                : "jtripathi@fordham.edu"
+    email                : "jstripathi@sbu.edu"
   generatedFields:
     date:
       type               : "date"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Janhavi Shankar Tripathi"
   avatar           : "jst.png"
-  bio              : "Economist" 
-  location         : "New York, NY"
+  bio              : "Assistant Professor of Economics at St. Bonaventure University School of Business" 
+  location         : "St. Bonaventure, NY"
   employer         : 
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            : "jtripathi@fordham.edu"
+  email            : "jstripathi@sbu.edu"
   researchgate     :  #https://www.researchgate.net/profile/Janhavi-Shankar-Tripathi
   uri              :
   bitbucket        :
