@@ -8,19 +8,18 @@ redirect_from:
 ---
 {% include base_path %}
 
-Janhavi Shankar Tripathi <!--<a href="https://janhavishankar.github.io/_pages/Tripathi_CV.pdf">[CV-PDF]</a>-->
+Dr. Janhavi Shankar Tripathi <!--<a href="https://janhavishankar.github.io/_pages/Tripathi_CV.pdf">[CV-PDF]</a>-->
 ======
-
+Assistant Professor of Economics at St. Bonaventure University School of Business <br>
 
 Contact
 ======
-Email: [jtripathi@fordham.edu](mailto:jtripathi@fordham.edu) <br> <br>
+Email: [jstripathi@sbu.edu](mailto:jstripathi@sbu.edu) <br> <br>
 Mailing Address: <br>
-Fordham University <br>
-Department of Economics <br>
-Dealy Hall <br>
-441 East Fordham Road <br>
-Bronx, NY 10458 <br>
+St. Bonaventure University <br>
+School of Business <br>
+Swan Business Center 104D <br>
+St. Bonaventure, NY 14776 <br>
 
 Research Fields
 ======
