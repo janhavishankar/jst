@@ -28,7 +28,7 @@ Financial Economics, International Economics, Applied Econometrics, Economic Dev
 Education
 ======
 * PhD in Econometrics and Quantitative Economics, 2018 - 2023 <br>
-  Fordham University Graduate School of Arts and Sciences, NY, USA <br>
+  Fordham University Graduate School of Arts and Sciences, New York, NY, USA <br>
   Fields: Financial Economics, International Economics, Applied Econometrics <br>
   Thesis: Topics on Fractional Trading and Trade-Growth Nexus <br>
   Advisors: Dr. Erick W. Rengifo (Co-chair), Dr. Dominick Salvatore (Co-chair), Dr. Hrishikesh D. Vinod, Dr. Duncan James <br>
@@ -47,10 +47,10 @@ Education
 Experience
 ======
 * Assistant Professor of Economics, Aug 2023 - present <br>
-  St. Bonaventure University - School of Business, NY, USA <br>
+  St. Bonaventure University - School of Business, St. Bonaventure, NY, USA <br>
 
 * Graduate Research and Teaching Assistant to Prof. Dominick Salvatore, Aug 2018 - Jul 2023 <br>
-  Fordham University - Graduate School of Arts and Sciences, NY, USA <br>
+  Fordham University - Graduate School of Arts and Sciences, New York, NY, USA <br>
 -- Research Assistant for projects on International Trade and Economic Development <br>
 -- Teaching Assistant for graduate courses in Microeconomic Theory I, International Trade, and International Finance <br>
 
