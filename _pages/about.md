@@ -25,7 +25,7 @@ Mailing Address: <br>
 St. Bonaventure University <br>
 School of Business <br>
 Swan Business Center 104D <br>
-St. Bonaventure, NY 10458 <br>
+St. Bonaventure, NY 14778 <br>
 
 
 <!-- 
