@@ -8,26 +8,24 @@ redirect_from:
   - /about.html
 ---
 
-Janhavi Shankar is a PhD Candidate in Econometrics and Quantitative Economics at Fordham University. At Fordham, he is advised by Prof. Erick W. Rengifo and Prof. Dominick Salvatore.
+Dr. Janhavi Shankar Tripathi is an Assistant Professor of Economics at St. Bonaventure University School of Business. 
 
-His research interests are in Financial Economics, International Economics, Applied Econometrics, and Economic Development.
+His research focuses on financial economics, international economics, applied econometrics, and economic development. 
 
-During his PhD studies, Janhavi Shankar was a research intern at the International Monetary Fund - Monetary and Capital Markets Department in Summer 2022, and the University of Cambridge Judge Business School - Center for Alternative Finance in Summer 2020.
+Dr. Tripathi is also interested in Economic and Business consulting. Before PhD, he worked with the Business Performance & Advanced Analytics team at ZS for 2+ years, providing business-relevant analytics and insights to a major US Pharma client. 
 
-He is also interested in Economic and Business consulting. Before PhD, Janhavi Shankar worked in business consulting for 2+ years. He worked with the Business Performance and Advanced Analytics team at ZS, providing business-relevant analytics and insights to a major US Pharma client.
+During his PhD studies, he was a research intern at the International Monetary Fund - Monetary & Capital Markets Department in Summer 2022, working on Financial Supervision & Regulation, and at the University of Cambridge Judge Business School - Center for Alternative Finance in Summer 2020, working on Cryptoasset & Blockchain research.
 
-Janhavi Shankar holds an MSc in Economics from the Symbiosis School of Economics, and a BSc in Physics (Major), Mathematics, and Statistics from Fergusson College, University of Pune.
-
+Dr. Tripathi holds a PhD in Economics from Fordham University, an MSc in Economics from the Symbiosis School of Economics, and a BSc in Physics (Major), Mathematics, and Statistics from Fergusson College, University of Pune. 
 
 Contact
 ======
-Email: [jtripathi@fordham.edu](mailto:jtripathi@fordham.edu) <br> <br>
+Email: [jstripathi@sbu.edu](mailto:jstripathi@sbu.edu) <br> <br>
 Mailing Address: <br>
-Fordham University <br>
-Department of Economics <br>
-Dealy Hall <br>
-441 East Fordham Road <br>
-Bronx, NY 10458 <br>
+St. Bonaventure University <br>
+School of Business <br>
+Swan Business Center 104D <br>
+St. Bonaventure, NY 10458 <br>
 
 
 <!-- 
