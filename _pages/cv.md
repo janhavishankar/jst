@@ -133,6 +133,10 @@ Discussant, Session Chair, and Referee Activities
 
 Teaching
 ======
+- At St. Bonaventure University <br>
+-- Macroeconomic Principles <br>
+-- Introduction to Statistics <br>
+
 - At Fordham University <br>
 Teaching Assistant to Prof. Dominick Salvatore for graduate courses in- <br>
 -- International Finance (Spring 2019, Spring 2021, Spring 2023) <br>
