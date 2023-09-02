@@ -142,8 +142,8 @@ Discussant, Session Chair, and Referee Activities
 Teaching
 ======
 - At St. Bonaventure University <br>
--- Macroeconomic Principles <br>
 -- Introduction to Statistics <br>
+-- Macroeconomic Principles <br>
 
 - At Fordham University <br>
 Teaching Assistant to Prof. Dominick Salvatore for graduate courses in- <br>
