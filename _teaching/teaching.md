@@ -10,8 +10,8 @@ redirect_from:
 
 At St. Bonaventure University
 ======
--- Macroeconomic Principles <br>
 -- Introduction to Statistics <br>
+-- Macroeconomic Principles <br>
 
 At Fordham University
 ======
