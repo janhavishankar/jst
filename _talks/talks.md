@@ -11,6 +11,9 @@ redirect_from:
 Presentations
 ======
 * 2023 <br>
+-- NYSEA 2023 Conference (Session: International Economics), Oct 2023 (scheduled) <br>
+-- NYSEA 2023 Conference (Session: Finance), Oct 2023 (scheduled) <br>
+-- Conference on Fintech for inclusivity, growth, and the future, Oct 2023 (scheduled) <br>
 -- World Finance Conference 2023, Aug 2023 <br>
 -- SQA-CQA 2023 Trading Day Conference, Jun 2023 <br>
 -- St. Bonaventure University School of Business, Mar 2023 <br>
@@ -27,12 +30,12 @@ Presentations
 
 Discussant, Session Chair, and Referee Activities
 ======
-* Discussant <br>
+* Discussant for- <br>
 -- "Forecasting Stock Market Liquidity: A LSTM-Based Approach" by Byomkesh Debata, Syed Ahzam Tariq, Gaurav G Petwe, & Asis Kumar Sahu at the World Finance Conference 2023, Aug 2023 <br>
 -- “Adding Bitcoin to a Portfolio: A Cautionary Tale” by Joan Nix & Bruce McNevin at the NYSEA 2022 Conference, Oct 2022 <br>
 -- “Can fake news impact the stock market? Evidence from politicians’ statements” by Rodrigo de Oliveria Leite, Matheus Moura, & Patrick Behr at the FRL 2022 CEMLA Conference on New Advances in International Finance, Apr 2022 <br>
 
-* Session Chair <br>
+* Session Chair for- <br>
 -- "Market Microstructure" session at the World Finance Conference 2023, Aug 2023 <br>
 
 * Referee Services <br>
