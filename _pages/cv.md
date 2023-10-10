@@ -129,14 +129,14 @@ Talks and Presentations
 Discussant, Session Chair, and Referee Activities
 ======
 * Discussant <br>
--- "Correlation Analysis of Bitcoin and Inflation Indicators" by Joseph Cheng at the NYSEA 2023 Conference, Oct 2023 (scheduled) <br>
--- "Structural Equation Modeling Versus Instrumental Variables: An Example" by Ossama Elhadary at the NYSEA 2023 Conference, Oct 2023 (scheduled) <br>
+<!---- "Correlation Analysis of Bitcoin and Inflation Indicators" by Joseph Cheng at the NYSEA 2023 Conference, Oct 2023 (scheduled) <br>
+-- "Structural Equation Modeling Versus Instrumental Variables: An Example" by Ossama Elhadary at the NYSEA 2023 Conference, Oct 2023 (scheduled) <br> -->
 -- "Forecasting Stock Market Liquidity: A LSTM-Based Approach" by Byomkesh Debata, Syed Ahzam Tariq, Gaurav G Petwe, & Asis Kumar Sahu at the World Finance Conference 2023, Aug 2023 <br>
 -- “Adding Bitcoin to a Portfolio: A Cautionary Tale” by Joan Nix & Bruce McNevin at the NYSEA 2022 Conference, Oct 2022 <br>
 -- “Can fake news impact the stock market? Evidence from politicians’ statements” by Rodrigo de Oliveria Leite, Matheus Moura, & Patrick Behr at the FRL 2022 CEMLA Conference on New Advances in International Finance, Apr 2022 <br>
 
 * Session Chair <br>
--- "Pedagogical Research" session at the NYSEA 2023 Conference, Oct 2023 (scheduled) <br>
+<!-- -- "Pedagogical Research" session at the NYSEA 2023 Conference, Oct 2023 (scheduled) <br> -->
 -- "Market Microstructure" session at the World Finance Conference 2023, Aug 2023 <br>
 
 * Referee Services <br>
