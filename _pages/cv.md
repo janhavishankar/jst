@@ -111,7 +111,7 @@ Talks and Presentations
 * 2023 <br>
 -- NYSEA 2023 Conference (Session: Financial Economics), Oct 2023 (scheduled) <br>
 -- NYSEA 2023 Conference (Session: Politics, Trade and Growth), Oct 2023 (scheduled) <br>
--- Conference on Fintech for inclusivity, growth, and the future, Oct 2023 (scheduled) <br>
+-- FFEA Conference on Fintech for inclusivity, growth, and the future, Oct 2023 (scheduled) <br>
 -- World Finance Conference 2023 (Session: Market Microstructure), Aug 2023 <br>
 -- SQA-CQA 2023 Trading Day Conference, Jun 2023 <br>
 -- St. Bonaventure University School of Business, Mar 2023 <br>
