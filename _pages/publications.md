@@ -25,7 +25,7 @@ Working Papers
 
 Works in Progress
 ======
-- **The Impact of Earnings Announcements Before and After the market hours on Asset Price Dynamics.** (w/ Erick W. Rengifo). <br>
+- **The Impact of Earnings Announcements Before and After the Market Hours on Asset Price Dynamics.** (w/ Erick W. Rengifo). <br>
 - **Exchange Traded Funds, Market Liquidity, and Financial Stability.** (w/ Jay Surti). <br>
 - **The Impact of Fractional Trading on Risk Aversion and Wealth Allocation Behavior for Non-professional Investors under the Prospect Theory Framework.** (w/ Erick W. Rengifo). <br>
 
