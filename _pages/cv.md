@@ -102,7 +102,7 @@ Working Papers
 
 Works in Progress
 ======
-- **The Impact of Earnings Announcements Before and After the market hours on Asset Price Dynamics.** (w/ Erick W. Rengifo). <br>
+- **The Impact of Earnings Announcements Before and After the Market Hours on Asset Price Dynamics.** (w/ Erick W. Rengifo). <br>
 - **Exchange Traded Funds, Market Liquidity, and Financial Stability.** (w/ Jay Surti). <br>
 - **The Impact of Fractional Trading on Risk Aversion and Wealth Allocation Behavior for Non-professional Investors under the Prospect Theory Framework.** (w/ Erick W. Rengifo).
 
@@ -111,7 +111,7 @@ Talks and Presentations
 * 2023 <br>
 -- NYSEA 2023 Conference (Session: Financial Economics), Oct 2023 (scheduled) <br>
 -- NYSEA 2023 Conference (Session: Politics, Trade and Growth), Oct 2023 (scheduled) <br>
--- FFEA Conference on Fintech for inclusivity, growth, and the future, Oct 2023 (scheduled) <br>
+-- FFEA WPI Finance Conference on Fintech for inclusivity, growth, and the future, Oct 2023 (scheduled) <br>
 -- World Finance Conference 2023 (Session: Market Microstructure), Aug 2023 <br>
 -- SQA-CQA 2023 Trading Day Conference, Jun 2023 <br>
 -- St. Bonaventure University School of Business, Mar 2023 <br>
@@ -129,14 +129,13 @@ Talks and Presentations
 Discussant, Session Chair, and Referee Activities
 ======
 * Discussant <br>
-<!---- "Correlation Analysis of Bitcoin and Inflation Indicators" by Joseph Cheng at the NYSEA 2023 Conference, Oct 2023 (scheduled) <br>
--- "Structural Equation Modeling Versus Instrumental Variables: An Example" by Ossama Elhadary at the NYSEA 2023 Conference, Oct 2023 (scheduled) <br> -->
+-- "Correlation Analysis of Bitcoin and Inflation Indicators" by Joseph Cheng at the NYSEA 2023 Conference, Oct 2023 (scheduled) <br>
 -- "Forecasting Stock Market Liquidity: A LSTM-Based Approach" by Byomkesh Debata, Syed Ahzam Tariq, Gaurav G Petwe, & Asis Kumar Sahu at the World Finance Conference 2023, Aug 2023 <br>
 -- “Adding Bitcoin to a Portfolio: A Cautionary Tale” by Joan Nix & Bruce McNevin at the NYSEA 2022 Conference, Oct 2022 <br>
 -- “Can fake news impact the stock market? Evidence from politicians’ statements” by Rodrigo de Oliveria Leite, Matheus Moura, & Patrick Behr at the FRL 2022 CEMLA Conference on New Advances in International Finance, Apr 2022 <br>
 
 * Session Chair <br>
-<!-- -- "Pedagogical Research" session at the NYSEA 2023 Conference, Oct 2023 (scheduled) <br> -->
+-- "Pedagogical Research" session at the NYSEA 2023 Conference, Oct 2023 (scheduled) <br>
 -- "Market Microstructure" session at the World Finance Conference 2023, Aug 2023 <br>
 
 * Referee Services <br>
@@ -145,7 +144,8 @@ Discussant, Session Chair, and Referee Activities
 Teaching
 ======
 - At St. Bonaventure University <br>
--- Introduction to Statistics (Fall 2023) <br>
+-- Financial Institutions and Markets (Spring 2024) <br>
+-- Introduction to Statistics (Fall 2023, Spring 2024) <br>
 -- Macroeconomic Principles (Fall 2023) <br>
 
 - At Fordham University <br>
