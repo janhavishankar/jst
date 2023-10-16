@@ -23,8 +23,9 @@ Contact
 Email: [jstripathi@sbu.edu](mailto:jstripathi@sbu.edu) <br> <br>
 Mailing Address: <br>
 St. Bonaventure University <br>
-School of Business <br>
 Swan Business Center 104D <br>
+3261 W State Road <br>
+School of Business | P.O. Box BY <br>
 St. Bonaventure, NY 14778, USA <br>
 
 
