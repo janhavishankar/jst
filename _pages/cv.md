@@ -75,9 +75,10 @@ Experience
    Inter-University Centre for Astronomy and Astrophysics (IUCAA), Pune, India <br>
 -- Magnetohydrodynamics and Dynamo Theory
 
-Awards and Honors
+Awards, Honors, and Grants
 ======
-* Graduate Student Research Support and Professional Development Grant, Fordham University, 2023
+* Faculty Travel Grant, St. Bonaventure University, 2023 <br>
+* Graduate Student Research Support and Professional Development Grant, Fordham University, 2023 <br>
 * GSAS Teaching Associateship, Fordham University, 2022 - 2023 <br>
 * Mahony Prowse Scholarship, Fordham University, 2020 <br>
 * Dominick Salvatore Summer Research Fellowship, Fordham University, 2020 <br>
