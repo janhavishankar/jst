@@ -138,7 +138,7 @@ Discussant, Session Chair, and Referee Activities
 
 * Session Chair <br>
 -- "Pedagogical Research" session at the NYSEA 2023 Conference, Oct 2023 <br>
--- "Financial and Economic Uncertainty, and Fintech" session at the FFEA-WPI 2023 Finance Conference, Oct 2023 (scheduled) <br>
+-- "Financial and Economic Uncertainty, and Fintech" session at the FFEA-WPI 2023 Finance Conference, Oct 2023 <br>
 -- "Market Microstructure" session at the World Finance Conference 2023, Aug 2023 <br>
 
 * Referee Services <br>
