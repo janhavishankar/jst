@@ -10,8 +10,7 @@ redirect_from:
 
 At St. Bonaventure University
 ======
--- Financial Institutions and Markets (Spring 2024) <br>
--- Introduction to Statistics (Fall 2023, Spring 2024) <br>
+-- Introduction to Statistics (Fall 2023) <br>
 -- Macroeconomic Principles (Fall 2023) <br>
 
 At Fordham University
