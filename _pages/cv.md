@@ -147,7 +147,7 @@ Discussant, Session Chair, and Referee Activities
 Teaching
 ======
 - At St. Bonaventure University <br>
--- Financial Institutions and Markets [Spring 2024 (scheduled)] <br>
+-- Financial Institutions and Markets -- Spring 2024 (scheduled) <br>
 -- Introduction to Statistics [Fall 2023, Spring 2024 (scheduled)] <br>
 -- Macroeconomic Principles [Fall 2023] <br>
 
