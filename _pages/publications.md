@@ -27,7 +27,7 @@ Works in Progress
 ======
 - **The Impact of Earnings Announcements Before and After the Market Hours on Asset Price Dynamics.** (w/ Erick W. Rengifo). <br>
 - **Crypto Markets Order Book Dynamics.** (w/ Erick W. Rengifo). <br>
-- **Relationship between Trade and Growth in the Geo-Economic Fragmentation Era.** (w/ Dominick Salvatore). <br>
+- **International Trade and Economic Growth in the Geo-Economic Fragmentation Era.** (w/ Dominick Salvatore). <br>
 - **Exchange Traded Funds, Market Liquidity, and Financial Stability.** (w/ Jay Surti). <br>
 - **The Impact of Fractional Trading on Risk Aversion and Wealth Allocation Behavior for Non-professional Investors under the Prospect Theory Framework.** (w/ Erick W. Rengifo). <br>
 
