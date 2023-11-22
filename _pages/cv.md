@@ -36,14 +36,15 @@ Education
   MA in Econometrics and Quantitative Economics, 2018 - 2020 <br>
   Advanced Certificate, Financial Econometrics and Data Analysis, 2019 - 2020
        
-* MSc in Economics, 2014 - 2016 <br>
+* MS in Economics, 2014 - 2016 <br>
   Symbiosis School of Economics, Pune, India <br>
   Specializations: International Trade and Finance, Applied Econometrics <br>
   Thesis: Trade-Growth Nexus: A Study of G20 Countries
   
-* BSc in Physics (Major), Mathematics, and Statistics, 2011 - 2014 <br>
+* BS in Physics, 2011 - 2014 <br>
   Fergusson College, University of Pune, Pune, India <br>
-  Thesis: Magnetohydrodynamics and Dynamo Theory
+  Thesis: Magnetohydrodynamics and Dynamo Theory <br>
+  Minor in Mathematics and Statistics
 
 Experience
 ======
