@@ -43,8 +43,9 @@ Education
   
 * BS in Physics, 2011 - 2014 <br>
   Fergusson College, University of Pune, Pune, India <br>
-  Thesis: Magnetohydrodynamics and Dynamo Theory <br>
-  Minors in Mathematics and Statistics
+  Minors in Mathematics and Statistics <br>
+  Thesis: Magnetohydrodynamics and Dynamo Theory
+  
 
 Experience
 ======
