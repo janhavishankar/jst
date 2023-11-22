@@ -34,7 +34,7 @@ Education
   Thesis: Topics on Fractional Trading and Trade-Growth Nexus <br>
   Advisors: Dr. Dominick Salvatore (Co-chair), Dr. Erick W. Rengifo (Co-chair), Dr. Hrishikesh D. Vinod, Dr. Duncan James <br>
   MA in Econometrics and Quantitative Economics, 2018 - 2020 <br>
-  Advanced Certificate, Financial Econometrics and Data Analysis, 2019 - 2020
+  Advanced Certificate in Financial Econometrics and Data Analysis, 2019 - 2020
        
 * MS in Economics, 2014 - 2016 <br>
   Symbiosis School of Economics, Pune, India <br>
