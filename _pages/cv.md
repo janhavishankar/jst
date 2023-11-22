@@ -28,12 +28,12 @@ Financial Economics, International Economics, Applied Econometrics, Economic Dev
 
 Education
 ======
-* PhD in Econometrics and Quantitative Economics, 2018 - 2023 <br>
+* PhD in Economics, 2018 - 2023 <br>
   Fordham University Graduate School of Arts and Sciences, New York, NY, USA <br>
   Fields: Financial Economics, International Economics, Applied Econometrics <br>
   Thesis: Topics on Fractional Trading and Trade-Growth Nexus <br>
   Advisors: Dr. Dominick Salvatore (Co-chair), Dr. Erick W. Rengifo (Co-chair), Dr. Hrishikesh D. Vinod, Dr. Duncan James <br>
-  MA in Econometrics and Quantitative Economics, 2018 - 2020 <br>
+  MA in Economics, 2018 - 2020 <br>
   Advanced Certificate in Financial Econometrics and Data Analysis, 2019 - 2020
        
 * MS in Economics, 2014 - 2016 <br>
