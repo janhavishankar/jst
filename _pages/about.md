@@ -16,7 +16,7 @@ He is also interested in Economic and Business consulting. Before PhD, Dr. Tripa
 
 During his PhD studies, he was a research intern at the International Monetary Fund - Monetary & Capital Markets Department in Summer 2022, working on Financial Supervision & Regulation, and at the University of Cambridge Judge Business School - Center for Alternative Finance in Summer 2020, working on Cryptoasset & Blockchain research.
 
-Dr. Tripathi holds a PhD in Economics from Fordham University, an MSc in Economics from the Symbiosis School of Economics, and a BSc in Physics from Fergusson College, University of Pune. 
+Dr. Tripathi holds a PhD in Economics from Fordham University, an MSc in Economics from the Symbiosis School of Economics, and a BSc in Physics (Major), Mathematics, and Statistics from Fergusson College, University of Pune. 
 
 Contact
 ======
