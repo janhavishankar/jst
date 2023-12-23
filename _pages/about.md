@@ -10,11 +10,11 @@ redirect_from:
 
 Dr. Janhavi Shankar Tripathi is an Assistant Professor of Economics at St. Bonaventure University School of Business. 
 
-His research focuses on financial economics, international economics, applied econometrics, and economic development. 
-
-He is also interested in Economic and Business consulting. Before PhD, Dr. Tripathi worked with the Business Performance & Advanced Analytics team at ZS for 2+ years, providing business-relevant analytics and insights to a major US Pharma client. 
+His research interests are in financial economics, international economics, applied econometrics, and economic development. 
 
 During his PhD studies, he was a research intern at the International Monetary Fund - Monetary & Capital Markets Department in Summer 2022, working on Financial Supervision & Regulation, and at the University of Cambridge Judge Business School - Center for Alternative Finance in Summer 2020, working on Cryptoasset & Blockchain research.
+
+He is also interested in Economic and Business consulting. Before PhD, Dr. Tripathi worked with the Business Performance & Advanced Analytics team at ZS for 2+ years, providing business-relevant analytics and insights to a major US Pharma client. 
 
 Dr. Tripathi holds a PhD in Economics from Fordham University, an MSc in Economics from the Symbiosis School of Economics, and a BSc in Physics (Major), Mathematics, and Statistics from Fergusson College, University of Pune. 
 
