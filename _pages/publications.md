@@ -25,7 +25,7 @@ Working Papers
 
 Works in Progress
 ======
-- **The Impact of Earnings Announcements Before and After the Market Hours on Asset Price Dynamics.** (w/ Erick W. Rengifo). <br>
+- **The Impact of Earnings Announcements Before and After Regular Market Hours on Asset Price Dynamics.** (w/ Erick W. Rengifo). <br>
 - **Trade-Growth Nexus in the Geoeconomic Fragmentation Era.** (w/ Dominick Salvatore). <br>
 - **Crypto Markets Order Book Dynamics.** (w/ Erick W. Rengifo). <br>
 - **Exchange Traded Funds, Market Liquidity, and Financial Stability.** (w/ Jay Surti). <br>
