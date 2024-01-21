@@ -99,13 +99,13 @@ Publications
 
 Working Papers
 ======
+- **The Impact of Earnings Announcements Before and After Regular Market Hours on Asset Price Dynamics.** (2024). (w/ Erick W. Rengifo). <br>
 - **Relationship Between Trade and Growth for Developing Countries at Different Levels of Income.** (2023). (w/ Dominick Salvatore). Submitted, Under Review. <br>
 - **Bond ETF Performance During the Covid-19 Crisis.** (2022). (w/ Jay Surti). IMF Working Paper, forthcoming. <br>
 - **The Impact of Fractional Trading on Order Book Dynamics.** (2022). (w/ Erick W. Rengifo). Submitted, Under Review. <br>
 
 Works in Progress
 ======
-- **The Impact of Earnings Announcements Before and After Regular Market Hours on Asset Price Dynamics.** (w/ Erick W. Rengifo). <br>
 - **Trade-Growth Nexus in the Geoeconomic Fragmentation Era.** (w/ Dominick Salvatore). <br>
 - **Crypto Markets Order Book Dynamics.** (w/ Erick W. Rengifo). <br>
 - **Exchange Traded Funds, Market Liquidity, and Financial Stability.** (w/ Jay Surti). <br>
