@@ -162,7 +162,7 @@ Teaching Assistant to Prof. Dominick Salvatore for graduate courses in- <br>
 
 Services
 ======
-- Conducted sessions on Global Economic Policy
+- Conduct sessions on Global Economic Policy
 - Search Committee Member for Finance faculty
 
 References
