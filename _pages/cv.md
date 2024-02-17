@@ -48,7 +48,7 @@ Education
 
 Experience
 ======
-* Assistant Professor of Economics, Aug 2023 - present <br>
+* Assistant Professor of Economics - Department of Economics and Finance, Aug 2023 - present <br>
   St. Bonaventure University - School of Business, St. Bonaventure, NY, USA <br>
   
 * Graduate Research and Teaching Assistant to Prof. Dominick Salvatore, Aug 2018 - Jul 2023 <br>
@@ -111,7 +111,7 @@ Works in Progress
 - **Exchange Traded Funds, Market Liquidity, and Financial Stability.** (w/ Jay Surti). <br>
 - **The Impact of Fractional Trading on Risk Aversion and Wealth Allocation Behavior for Non-professional Investors under the Prospect Theory Framework.** (w/ Erick W. Rengifo).
 
-Talks and Presentations
+Presentations
 ======
 * 2023 <br>
 -- NYSEA 2023 Conference (Session: Financial Economics), Oct 2023 <br>
@@ -160,6 +160,11 @@ Teaching Assistant to Prof. Dominick Salvatore for graduate courses in- <br>
 -- International Trade (Fall 2018, Fall 2020, Fall 2022) <br>
 -- Microeconomic Theory I - (Fall 2018, Fall 2019, Fall 2020, Fall 2021, Fall 2022) <br>
 
+Services
+======
+- Conducted sessions on Global Economic Policy
+- Search Committee Member for Finance faculty
+
 References
 ======
 - Dr. Dominick Salvatore (Co-chair & Mentor) <br>
@@ -167,12 +172,10 @@ Distinguished Professor of Economics <br>
 Department of Economics, Fordham University <br>
 Email: [salvatore@fordham.edu](mailto:salvatore@fordham.edu) <br>
 
-
 - Dr. Erick W. Rengifo (Co-chair & Mentor) <br>
 Professor of Economics <br>
 Department of Economics, Fordham University <br>
 Email: [rengifomina@fordham.edu](mailto:rengifomina@fordham.edu) <br>
-
 
 - Dr. Jay S. Surti <br>
 Division Chief - Financial Supervision and Regulation <br>
@@ -184,12 +187,10 @@ Professor of Economics <br>
 Department of Economics, Fordham University <br>
 Email: [vinod@fordham.edu](mailto:vinod@fordham.edu) <br>
 
-
 - Dr. Duncan James <br>
 Professor of Economics <br>
 Department of Economics, Fordham University <br>
 Email: [dujames@fordham.edu](mailto:dujames@fordham.edu) <br>
-
 
 - Dr. Johanna L. Francis <br>
 Associate Professor of Economics & Department Chair <br>
