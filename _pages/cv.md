@@ -163,7 +163,7 @@ Teaching Assistant to Prof. Dominick Salvatore for graduate courses in- <br>
 Services
 ======
 - At St. Bonaventure University <br>
--- Conduct sessions on Global Economic Policy
+-- Conduct sessions on Global Economic Policy <br>
 -- Search Committee Member for Finance faculty
 
 References
