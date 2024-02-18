@@ -160,7 +160,7 @@ Teaching Assistant to Prof. Dominick Salvatore for graduate courses in- <br>
 -- International Trade (Fall 2018, Fall 2020, Fall 2022) <br>
 -- Microeconomic Theory I - (Fall 2018, Fall 2019, Fall 2020, Fall 2021, Fall 2022) <br>
 
-Services
+University and Department Services
 ======
 - At St. Bonaventure University <br>
 -- Search Committee Member for Finance faculty <br>
