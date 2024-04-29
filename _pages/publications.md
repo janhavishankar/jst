@@ -29,9 +29,9 @@ Working Papers
 Works in Progress
 ======
 - **Relationship between Trade and Growth after the Great Lockdown.** (w/ Dominick Salvatore). <br>
-- **Crypto Markets Order Book Dynamics.** (w/ Erick W. Rengifo). <br>
-- **Exchange Traded Funds, Market Liquidity, and Financial Stability.** (w/ Jay Surti). <br>
 - **The Impact of Fractional Trading on Risk Aversion and Wealth Allocation Behavior for Non-professional Investors under the Prospect Theory Framework.** (w/ Erick W. Rengifo). <br>
+- **Exchange Traded Funds, Market Liquidity, and Financial Stability.** (w/ Jay Surti). <br>
+- **Crypto Markets Order Book Dynamics.** <br>
 
 Theses and Other Selected Projects
 ======
