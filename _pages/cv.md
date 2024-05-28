@@ -146,7 +146,7 @@ Discussant, Session Chair, and Referee Activities
 -- "Market Microstructure" session at the World Finance Conference 2023, Aug 2023 <br>
 
 * Referee Services <br>
--- Finance Research Letters <br>
+-- International Review of Financial Analysis, Finance Research Letters <br>
 
 Teaching
 ======
