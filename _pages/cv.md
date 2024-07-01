@@ -93,6 +93,7 @@ Awards, Honors, and Grants
 
 Publications
 ======
+- Salvatore, D., & **Tripathi, J. S.** (2024). **Relationship between Trade and Growth for Developing Countries at Different Levels of Income.** Journal of Policy Modeling, forthcoming. [[DOI](https://www.sciencedirect.com/science/article/pii/S016189382400070X?via%3Dihub)].
 - **Tripathi, J. S.** (2023). **Trade-Growth Nexus: A Study of G20 Countries using Simultaneous Equations Model with Dynamic Policy Simulations.** Journal of Policy Modeling, 45(4), 806-816. [[DOI](https://www.sciencedirect.com/science/article/pii/S0161893823000662)]. <br>
 - **Tripathi, J. S.**, & Rengifo, E. W. (2023). **The Impact of Fractional Trading on Risk Aversion for Non-professional Investors.** Finance Research Letters, 52, 103547. [[DOI](https://www.sciencedirect.com/science/article/pii/S1544612322007231?via%3Dihub)]. <br>
 - **Tripathi, J. S.** (2016). **Trade-Growth Nexus: A Study of G20 Countries.** IOSR J Econ Finance, 7(3), 60-70.  [[DOI](http://www.iosrjournals.org/iosr-jef/papers/Vol7-Issue3/Version-2/G0703026070.pdf)]. <br>
@@ -101,7 +102,6 @@ Publications
 Working Papers
 ======
 - **The Impact of Earnings Announcements Before and After Regular Market Hours on Asset Price Dynamics.** (2024). (w/ Erick W. Rengifo). <br>
-- **Relationship Between Trade and Growth for Developing Countries at Different Levels of Income.** (2023). (w/ Dominick Salvatore). Submitted, Under Review. <br>
 - **Bond ETF Performance During the Covid-19 Crisis.** (2022). (w/ Jay Surti). IMF Working Paper, forthcoming. <br>
 - **The Impact of Fractional Trading on Order Book Dynamics.** (2022). (w/ Erick W. Rengifo). Submitted, Under Review. <br>
 
@@ -109,7 +109,6 @@ Works in Progress
 ======
 - **Relationship between Trade and Growth after the Great Lockdown.** (w/ Dominick Salvatore). <br>
 - **The Impact of Fractional Trading on Risk Aversion and Wealth Allocation Behavior for Non-professional Investors under the Prospect Theory Framework.** (w/ Erick W. Rengifo). <br>
-- **Exchange Traded Funds, Market Liquidity, and Financial Stability.** (w/ Jay Surti). <br>
 - **Crypto Markets Order Book Dynamics.** <br>
 
 Presentations
