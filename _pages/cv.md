@@ -152,8 +152,8 @@ Teaching
 ======
 - At St. Bonaventure University <br>
 -- Financial Institutions and Markets (Spring 2024) <br>
--- Macroeconomic Principles (Fall 2023) <br>
--- Introduction to Statistics (Fall 2023, Spring 2024) <br>
+-- Macroeconomic Principles (Fall 2023, Fall 2024) <br>
+-- Introduction to Statistics (Fall 2023, Spring 2024, Fall 2024) <br>
 
 - At Fordham University <br>
 Teaching Assistant to Prof. Dominick Salvatore for graduate courses in- <br>
