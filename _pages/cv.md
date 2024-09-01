@@ -14,7 +14,6 @@ Assistant Professor of Economics at St. Bonaventure University School of Busines
 
 Contact
 ======
-abcd
 Email: [jstripathi@sbu.edu](mailto:jstripathi@sbu.edu) <br> <br>
 Mailing Address: <br>
 St. Bonaventure University <br>
