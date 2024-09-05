@@ -79,6 +79,7 @@ Experience
 
 Awards, Honors, and Grants
 ======
+* Faculty Summer Research Grant, St. Bonaventure University, 2024 <br>
 * Faculty Travel Grant, St. Bonaventure University, 2023 <br>
 * Graduate Student Research Support and Professional Development Grant, Fordham University, 2023 <br>
 * GSAS Teaching Associateship, Fordham University, 2022 - 2023 <br>
