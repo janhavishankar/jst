@@ -50,8 +50,4 @@ Theses and Other Selected Projects
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %} 
-
-- **Relationship Between Trade and Growth for Developing Countries at Different Levels of Income.** (2023). (w/ Dominick Salvatore). Submitted, Under Review. <br>
-*Abstract:* We explore the relationship between trade openness and economic growth for 102 developing countries at different income levels using a simultaneous equations model from 2004-2019. The model is estimated using a full information maximum likelihood method for the developing high-income (HI), upper-middle-income (UMI), lower-middle-income (LMI), and low-income (LI) countries. We find that for developing HI, UMI, and LI countries, trade positively impacts growth which varies significantly in magnitude. Trade contributes significantly higher growth for developing HI countries when compared to developing UMI and LI countries. The results suggest that trade is positively related to growth, but it works as a handmaiden rather than a growth engine. On the other hand, for developing LMI countries, we find that trade negatively impacts growth. For developing LMI countries, trade contributes significantly to capital formation for these countries, leading to growth. Further, we also perform dynamic policy simulations based on the most advocated policies like increasing growth of exports, foreign capital inflows, curbing domestic inflation, etc. We find that these policies are not very effective in increasing the growth rate of the real per capita income. <br>
-
 -->
